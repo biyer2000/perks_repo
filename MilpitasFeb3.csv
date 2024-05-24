@@ -1,0 +1,480 @@
+Menu Item,Modifiers,Price,Qty,Discount,Net,Tax,Total,Voided?,Reason,Refund Qty,Refund,Payment,Date,Amount,Tip,Gratuity,Total,Refund,Status,name,account_value,phone_number
+Sambar - 8oz,,$4.00,1,$0.00,$4.00,$0.170,$4.17,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 10:00 AM",$13.34,$0.00,$0.00,$13.34,$0.00,CAPTURED,Deepit S,na,855-973-1040
+Sambar Idly,,$8.80,1,$0.00,$8.80,$0.370,$9.17,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 10:00 AM",$13.34,$0.00,$0.00,$13.34,$0.00,CAPTURED,Deepit S,na,855-973-1040
+Filter Coffee,Strong,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Discover 3370,"2/4/24, 9:58 AM",$36.10,$0.00,$0.00,$36.10,$0.00,CAPTURED,Srinath Jagannathan,na,217-721-8744
+Mini Podi Idly,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Discover 3370,"2/4/24, 9:58 AM",$36.10,$0.00,$0.00,$36.10,$0.00,CAPTURED,Srinath Jagannathan,na,217-721-8744
+Onion Tomato Chilli Uthappam (2 pcs),,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,CREDIT: Discover 3370,"2/4/24, 9:58 AM",$36.10,$0.00,$0.00,$36.10,$0.00,CAPTURED,Srinath Jagannathan,na,217-721-8744
+Sambar Vada,,$8.00,1,$0.00,$8.00,$0.750,$8.75,false,,0,$0.00,CREDIT: Discover 3370,"2/4/24, 9:58 AM",$36.10,$0.00,$0.00,$36.10,$0.00,CAPTURED,Srinath Jagannathan,na,217-721-8744
+Hot Lunch - No Rice,,$22.00,1,$0.00,$22.00,$2.060,$24.06,false,,0,$0.00,CREDIT: Visa 2984,"2/4/24, 1:08 PM",$24.06,$0.00,$0.00,$24.06,$0.00,CAPTURED,Abhishek,na,469-988-7439
+Mini Tiffin,,$13.20,1,$0.00,$13.20,$0.580,$13.78,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 10:06 AM",$13.78,$0.00,$0.00,$13.78,$0.00,CAPTURED,Sudhanshu D,na,855-973-1040
+Idly Vada Combo,,$11.55,2,$0.00,$23.10,$2.170,$25.27,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 10:05 AM",$25.27,$0.00,$0.00,$25.27,$0.00,CAPTURED,Ramprasad N,na,855-973-1040
+Filter Coffee,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 10:08 AM",$39.98,$0.00,$0.00,$39.98,$0.00,CAPTURED,Sheetal R,na,855-973-1040
+Mixture,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 10:08 AM",$39.98,$0.00,$0.00,$39.98,$0.00,CAPTURED,Sheetal R,na,855-973-1040
+Onion Tomato Uthappam (2 pcs),,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 10:08 AM",$39.98,$0.00,$0.00,$39.98,$0.00,CAPTURED,Sheetal R,na,855-973-1040
+Idly Vada Combo,,$11.55,1,$0.00,$11.55,$1.080,$12.63,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 10:08 AM",$39.98,$0.00,$0.00,$39.98,$0.00,CAPTURED,Sheetal R,na,855-973-1040
+Idly Vada Combo,No Tom Just Coco,$10.50,2,$0.00,$21.00,$1.970,$22.97,false,,0,$0.00,CREDIT: Mastercard 5514,"2/4/24, 11:07 AM",$22.97,$0.00,$0.00,$22.97,$0.00,CAPTURED,Vikaschandra Tuluva,na,313-685-0059
+Extra Idly,,$2.50,2,$0.00,$5.00,$0.470,$5.47,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 10:11 AM",$42.77,$0.00,$0.00,$42.77,$0.00,CAPTURED,Praadnya S,na,855-973-1040
+Medhu Vada,,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 10:11 AM",$42.77,$0.00,$0.00,$42.77,$0.00,CAPTURED,Praadnya S,na,855-973-1040
+Idly Vada Combo,,$11.55,2,$0.00,$23.10,$2.170,$25.27,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 10:11 AM",$42.77,$0.00,$0.00,$42.77,$0.00,CAPTURED,Praadnya S,na,855-973-1040
+Mylapore Express Curries,,$18.00,1,$0.00,$18.00,$0.000,$18.00,false,,0,$0.00,CREDIT: Visa 0903,"2/4/24, 10:26 AM",$28.00,$0.00,$0.00,$28.00,$0.00,CAPTURED,na,na,na
+Mylapore Express Curry (Single),,$10.00,1,$0.00,$10.00,$0.000,$10.00,false,,0,$0.00,CREDIT: Visa 0903,"2/4/24, 10:26 AM",$28.00,$0.00,$0.00,$28.00,$0.00,CAPTURED,na,na,na
+Dosa batter,,$8.50,1,$0.00,$8.50,$0.000,$8.50,false,,0,$0.00,CREDIT: Visa 8597,"2/4/24, 10:32 AM",$26.50,$0.00,$0.00,$26.50,$0.00,CAPTURED,na,na,na
+Mylapore Express Curries,,$18.00,1,$0.00,$18.00,$0.000,$18.00,false,,0,$0.00,CREDIT: Visa 8597,"2/4/24, 10:32 AM",$26.50,$0.00,$0.00,$26.50,$0.00,CAPTURED,na,na,na
+Idly Vada Combo,,$11.55,2,$0.00,$23.10,$2.170,$25.27,false,,0,$0.00,OTHER: Uber Eats,"2/4/24, 10:29 AM",$25.27,$0.00,$0.00,$25.27,$0.00,CAPTURED,Manju B,na,na
+Thatte Idly,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 8807,"2/4/24, 10:17 AM",$44.29,$0.00,$0.00,$44.29,$0.00,CAPTURED,Sachin C,na,972-730-2648
+Idly Vada Combo,,$10.50,1,$0.00,$10.50,$0.980,$11.48,false,,0,$0.00,CREDIT: Visa 8807,"2/4/24, 10:17 AM",$44.29,$0.00,$0.00,$44.29,$0.00,CAPTURED,Sachin C,na,972-730-2648
+Mini Tiffin,,$12.00,1,$0.00,$12.00,$1.120,$13.12,false,,0,$0.00,CREDIT: Visa 8807,"2/4/24, 10:17 AM",$44.29,$0.00,$0.00,$44.29,$0.00,CAPTURED,Sachin C,na,972-730-2648
+Sambar - 16oz,,$8.00,1,$0.00,$8.00,$0.750,$8.75,false,,0,$0.00,CREDIT: Visa 8807,"2/4/24, 10:17 AM",$44.29,$0.00,$0.00,$44.29,$0.00,CAPTURED,Sachin C,na,972-730-2648
+Idly Batter,,$8.50,1,$0.00,$8.50,$0.000,$8.50,false,,0,$0.00,CREDIT: Visa 6050,"2/4/24, 10:33 AM",$17.00,$0.00,$0.00,$17.00,$0.00,CAPTURED,na,na,na
+Dosa batter,,$8.50,1,$0.00,$8.50,$0.000,$8.50,false,,0,$0.00,CREDIT: Visa 6050,"2/4/24, 10:33 AM",$17.00,$0.00,$0.00,$17.00,$0.00,CAPTURED,na,na,na
+Dosa batter,,$8.50,1,$0.00,$8.50,$0.000,$8.50,false,,0,$0.00,CREDIT: Visa 8524,"2/4/24, 10:34 AM",$8.50,$0.00,$0.00,$8.50,$0.00,CAPTURED,na,na,na
+Idly Vada Combo,,$10.50,1,$0.00,$10.50,$0.980,$11.48,false,,0,$0.00,CREDIT: Visa 8274,"2/4/24, 11:09 AM",$15.86,$0.00,$0.00,$15.86,$0.00,CAPTURED,Nikhil,c3e6d974-fb59-4d8f-8780-a512dda9b4d0,408-368-2601
+Filter Coffee,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Visa 8274,"2/4/24, 11:09 AM",$15.86,$0.00,$0.00,$15.86,$0.00,CAPTURED,Nikhil,c3e6d974-fb59-4d8f-8780-a512dda9b4d0,408-368-2601
+Filter Coffee,,$4.00,2,$0.00,$8.00,$0.750,$8.75,false,,0,$0.00,CREDIT: Amex 1007,"2/4/24, 10:36 AM",$53.59,$0.00,$0.00,$53.59,$0.00,CAPTURED,Kirshna,na,na
+Pongal,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Amex 1007,"2/4/24, 10:36 AM",$53.59,$0.00,$0.00,$53.59,$0.00,CAPTURED,Kirshna,na,na
+Curd Rice,,$9.00,1,$0.00,$9.00,$0.840,$9.84,false,,0,$0.00,CREDIT: Amex 1007,"2/4/24, 10:36 AM",$53.59,$0.00,$0.00,$53.59,$0.00,CAPTURED,Kirshna,na,na
+Thattte Idly,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Amex 1007,"2/4/24, 10:36 AM",$53.59,$0.00,$0.00,$53.59,$0.00,CAPTURED,Kirshna,na,na
+Mini Tiffin,,$12.00,1,$0.00,$12.00,$1.120,$13.12,false,,0,$0.00,CREDIT: Amex 1007,"2/4/24, 10:36 AM",$53.59,$0.00,$0.00,$53.59,$0.00,CAPTURED,Kirshna,na,na
+Filter Coffee,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Visa 6927,"2/4/24, 10:37 AM",$12.88,$0.00,$0.00,$12.88,$0.00,CAPTURED,na,na,na
+Dosa batter,,$8.50,1,$0.00,$8.50,$0.000,$8.50,false,,0,$0.00,CREDIT: Visa 6927,"2/4/24, 10:37 AM",$12.88,$0.00,$0.00,$12.88,$0.00,CAPTURED,na,na,na
+Hot Lunch - No Rice,,$22.00,1,$0.00,$22.00,$2.060,$24.06,false,,0,$0.00,CREDIT: Visa 8069,"2/4/24, 11:23 AM",$74.84,$0.00,$0.00,$74.84,$0.00,CAPTURED,Vishal,na,425-785-9557
+Curd Rice,,$9.00,1,$0.00,$9.00,$0.840,$9.84,false,,0,$0.00,CREDIT: Visa 8069,"2/4/24, 11:23 AM",$74.84,$0.00,$0.00,$74.84,$0.00,CAPTURED,Vishal,na,425-785-9557
+Spiced Buttermilk,,$3.50,1,$0.00,$3.50,$0.330,$3.83,false,,0,$0.00,CREDIT: Visa 8069,"2/4/24, 11:23 AM",$74.84,$0.00,$0.00,$74.84,$0.00,CAPTURED,Vishal,na,425-785-9557
+Vegan Filter Coffee,,$4.50,1,$0.00,$4.50,$0.420,$4.92,false,,0,$0.00,CREDIT: Visa 8069,"2/4/24, 11:23 AM",$74.84,$0.00,$0.00,$74.84,$0.00,CAPTURED,Vishal,na,425-785-9557
+Mixture,,$10.00,1,$0.00,$10.00,$0.000,$10.00,false,,0,$0.00,CREDIT: Visa 8069,"2/4/24, 11:23 AM",$74.84,$0.00,$0.00,$74.84,$0.00,CAPTURED,Vishal,na,425-785-9557
+Mylapore Express Curry (Single),,$10.00,1,$0.00,$10.00,$0.000,$10.00,false,,0,$0.00,CREDIT: Visa 8069,"2/4/24, 11:23 AM",$74.84,$0.00,$0.00,$74.84,$0.00,CAPTURED,Vishal,na,425-785-9557
+Butter Murukku,,$10.00,1,$0.00,$10.00,$0.000,$10.00,false,,0,$0.00,CREDIT: Visa 8069,"2/4/24, 11:23 AM",$74.84,$0.00,$0.00,$74.84,$0.00,CAPTURED,Vishal,na,425-785-9557
+Coconut Chutney,,$2.00,1,$0.00,$2.00,$0.190,$2.19,false,,0,$0.00,CREDIT: Visa 8069,"2/4/24, 11:23 AM",$74.84,$0.00,$0.00,$74.84,$0.00,CAPTURED,Vishal,na,425-785-9557
+Thatte Idly,,$10.00,1,$3.38,$6.62,$0.620,$7.24,false,,0,$0.00,CREDIT: Mastercard 0573,"2/4/24, 10:39 AM",$7.24,$0.00,$0.00,$7.24,$0.00,CAPTURED,Jay,aaf64220-7b3f-4aaa-ac99-267e5cc60185,na
+Rava Kesari,,$5.50,1,$0.00,$5.50,$0.520,$6.02,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 10:56 AM",$18.65,$0.00,$0.00,$18.65,$0.00,CAPTURED,Saravanan D,na,855-973-1040
+Idly Vada Combo,,$11.55,1,$0.00,$11.55,$1.080,$12.63,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 10:56 AM",$18.65,$0.00,$0.00,$18.65,$0.00,CAPTURED,Saravanan D,na,855-973-1040
+Hot Badam Milk,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Mastercard 8942,"2/4/24, 11:07 AM",$4.38,$0.00,$0.00,$4.38,$0.00,CAPTURED,na,na,na
+Hot Lunch - No Rice,,$22.00,1,$0.00,$22.00,$2.060,$24.06,false,,0,$0.00,CREDIT: Visa 0821,"2/4/24, 11:59 AM",$42.56,$0.00,$0.00,$42.56,$0.00,CAPTURED,Shiva,na,203-843-0644
+Adai batter,,$8.50,1,$0.00,$8.50,$0.000,$8.50,false,,0,$0.00,CREDIT: Visa 0821,"2/4/24, 11:59 AM",$42.56,$0.00,$0.00,$42.56,$0.00,CAPTURED,Shiva,na,203-843-0644
+Mylapore Express Curry (Single),,$10.00,1,$0.00,$10.00,$0.000,$10.00,false,,0,$0.00,CREDIT: Visa 0821,"2/4/24, 11:59 AM",$42.56,$0.00,$0.00,$42.56,$0.00,CAPTURED,Shiva,na,203-843-0644
+Onion Tomato Uthappam (2 pcs),,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,CREDIT: Visa 0807,"2/4/24, 11:17 AM",$14.76,$0.00,$0.00,$14.76,$0.00,CAPTURED,Vinod,na,619-548-1910
+Extra Idly,,$2.50,1,$0.00,$2.50,$0.230,$2.73,false,,0,$0.00,CREDIT: Visa 0807,"2/4/24, 11:17 AM",$14.76,$0.00,$0.00,$14.76,$0.00,CAPTURED,Vinod,na,619-548-1910
+Idly Vada Combo,,$10.50,1,$0.00,$10.50,$0.980,$11.48,false,,0,$0.00,CREDIT: Visa 0248,"2/4/24, 10:55 AM",$11.48,$0.00,$0.00,$11.48,$0.00,CAPTURED,Melissa Chapa,na,408-427-1866
+Kara Kuzhambu,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Mastercard 6522,"2/4/24, 11:11 AM",$15.32,$0.00,$0.00,$15.32,$0.00,CAPTURED,na,na,na
+Filter Coffee,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Mastercard 6522,"2/4/24, 11:11 AM",$15.32,$0.00,$0.00,$15.32,$0.00,CAPTURED,na,na,na
+Filter Coffee,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Visa 7105,"2/4/24, 11:18 AM",$4.38,$0.00,$0.00,$4.38,$0.00,CAPTURED,na,na,na
+Extra Idly,,$2.50,1,$0.00,$2.50,$0.240,$2.74,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 11:10 AM",$14.77,$0.00,$0.00,$14.77,$0.00,CAPTURED,Reshma S,na,855-973-1040
+Thatte Idly,,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 11:10 AM",$14.77,$0.00,$0.00,$14.77,$0.00,CAPTURED,Reshma S,na,855-973-1040
+Onion Tomato Chilli Uthappam (2 pcs),,$11.00,2,$0.00,$22.00,$2.060,$24.06,false,,0,$0.00,CREDIT: Mastercard 2100,"2/4/24, 11:25 AM",$61.79,$0.00,$0.00,$61.79,$0.00,CAPTURED,Uvin,na,na
+Mini Idly - Sambar On the Side,,$10.50,1,$0.00,$10.50,$0.980,$11.48,false,,0,$0.00,CREDIT: Mastercard 2100,"2/4/24, 11:25 AM",$61.79,$0.00,$0.00,$61.79,$0.00,CAPTURED,Uvin,na,na
+Sambar - 32oz,,$16.00,1,$0.00,$16.00,$1.500,$17.50,false,,0,$0.00,CREDIT: Mastercard 2100,"2/4/24, 11:25 AM",$61.79,$0.00,$0.00,$61.79,$0.00,CAPTURED,Uvin,na,na
+Filter Coffee,,$4.00,2,$0.00,$8.00,$0.750,$8.75,false,,0,$0.00,CREDIT: Mastercard 2100,"2/4/24, 11:25 AM",$61.79,$0.00,$0.00,$61.79,$0.00,CAPTURED,Uvin,na,na
+Mini Tiffin,,$12.00,1,$0.00,$12.00,$1.120,$13.12,false,,0,$0.00,CREDIT: Discover 1466,"2/4/24, 11:26 AM",$24.60,$0.00,$0.00,$24.60,$0.00,CAPTURED,Ankit,na,na
+Idly Pongal Combo,,$10.50,1,$0.00,$10.50,$0.980,$11.48,false,,0,$0.00,CREDIT: Discover 1466,"2/4/24, 11:26 AM",$24.60,$0.00,$0.00,$24.60,$0.00,CAPTURED,Ankit,na,na
+Hot Lunch - With Rice,,$25.00,1,$0.00,$25.00,$2.340,$27.34,false,,0,$0.00,CREDIT: Visa 2177,"2/4/24, 12:20 PM",$27.34,$0.00,$0.00,$27.34,$0.00,CAPTURED,Karthik B,90fe5659-e7c4-480e-8aec-ceb55cf4c16e,415-690-5242
+Thatte Idly,,$11.00,3,$0.00,$33.00,$2.440,$35.44,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 11:14 AM",$35.44,$0.00,$0.00,$35.44,$0.00,CAPTURED,Pradeep V,na,855-973-1040
+Mixture,,$10.00,1,$0.00,$10.00,$0.000,$10.00,false,,0,$0.00,CREDIT: Mastercard 3618,"2/4/24, 11:27 AM",$10.00,$0.00,$0.00,$10.00,$0.00,CAPTURED,na,b3cfc343-fbd4-4f35-bb8a-215c38f8d407,na
+Mylapore Express Curry (Single),,$10.00,1,$0.00,$10.00,$0.000,$10.00,false,,0,$0.00,CREDIT: Visa 1732,"2/4/24, 11:27 AM",$21.48,$3.00,$0.00,$24.48,$0.00,CAPTURED,Ravi,na,na
+Vada Idly Pongal (VIP),,$10.50,1,$0.00,$10.50,$0.980,$11.48,false,,0,$0.00,CREDIT: Visa 1732,"2/4/24, 11:27 AM",$21.48,$3.00,$0.00,$24.48,$0.00,CAPTURED,Ravi,na,na
+Filter Coffee,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Visa 5072,"2/4/24, 11:29 AM",$44.26,$0.00,$0.00,$44.26,$0.00,CAPTURED,Anand,ea0a1bb8-d978-4579-b474-33f0bbc29cf0,na
+Mylapore Express Curries,,$18.00,1,$0.00,$18.00,$0.000,$18.00,false,,0,$0.00,CREDIT: Visa 5072,"2/4/24, 11:29 AM",$44.26,$0.00,$0.00,$44.26,$0.00,CAPTURED,Anand,ea0a1bb8-d978-4579-b474-33f0bbc29cf0,na
+Bisibele Bath,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 5072,"2/4/24, 11:29 AM",$44.26,$0.00,$0.00,$44.26,$0.00,CAPTURED,Anand,ea0a1bb8-d978-4579-b474-33f0bbc29cf0,na
+Medhu Vada,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 5072,"2/4/24, 11:29 AM",$44.26,$0.00,$0.00,$44.26,$0.00,CAPTURED,Anand,ea0a1bb8-d978-4579-b474-33f0bbc29cf0,na
+Spiced Buttermilk,,$3.50,1,$0.00,$3.50,$0.330,$3.83,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 11:19 AM",$15.26,$0.00,$0.00,$15.26,$0.00,CAPTURED,Hariharan K,na,855-973-1040
+Puliyodarai,,$10.45,1,$0.00,$10.45,$0.980,$11.43,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 11:19 AM",$15.26,$0.00,$0.00,$15.26,$0.00,CAPTURED,Hariharan K,na,855-973-1040
+Mylapore Express Curry (Single),,$10.00,1,$0.00,$10.00,$0.000,$10.00,false,,0,$0.00,CREDIT: Mastercard 4439,"2/4/24, 11:32 AM",$35.71,$0.00,$0.00,$35.71,$0.00,CAPTURED,na,na,na
+Thatte Idly,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Mastercard 4439,"2/4/24, 11:32 AM",$35.71,$0.00,$0.00,$35.71,$0.00,CAPTURED,na,na,na
+Puliyodarai,,$9.50,1,$0.00,$9.50,$0.890,$10.39,false,,0,$0.00,CREDIT: Mastercard 4439,"2/4/24, 11:32 AM",$35.71,$0.00,$0.00,$35.71,$0.00,CAPTURED,na,na,na
+Sambar - 8oz,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Mastercard 4439,"2/4/24, 11:32 AM",$35.71,$0.00,$0.00,$35.71,$0.00,CAPTURED,na,na,na
+Filter Coffee,,$4.00,2,$0.00,$8.00,$0.750,$8.75,false,,0,$0.00,CREDIT: Visa 3727,"2/4/24, 11:41 AM",$8.75,$0.00,$0.00,$8.75,$0.00,CAPTURED,na,na,na
+Hot Lunch - No Rice,,$23.00,1,$0.00,$23.00,$2.160,$25.16,false,,0,$0.00,OTHER: Uber Eats,"2/4/24, 11:34 AM",$25.16,$0.00,$0.00,$25.16,$0.00,CAPTURED,Indhu K,na,na
+Mylapore Express Curry (Single),,$10.00,1,$0.00,$10.00,$0.000,$10.00,false,,0,$0.00,CREDIT: Mastercard 2243,"2/4/24, 11:42 AM",$25.32,$0.00,$0.00,$25.32,$0.00,CAPTURED,Abhishik,na,na
+Thatte Idly,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Mastercard 2243,"2/4/24, 11:42 AM",$25.32,$0.00,$0.00,$25.32,$0.00,CAPTURED,Abhishik,na,na
+Filter Coffee,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Mastercard 2243,"2/4/24, 11:42 AM",$25.32,$0.00,$0.00,$25.32,$0.00,CAPTURED,Abhishik,na,na
+Dosa batter,,$8.50,1,$0.00,$8.50,$0.000,$8.50,false,,0,$0.00,CREDIT: Visa 5687,"2/4/24, 12:12 PM",$8.50,$0.00,$0.00,$8.50,$0.00,CAPTURED,na,na,na
+Idly Batter,,$8.50,1,$0.00,$8.50,$0.000,$8.50,false,,0,$0.00,CREDIT: Visa 2178,"2/4/24, 12:12 PM",$17.00,$0.00,$0.00,$17.00,$0.00,CAPTURED,na,na,na
+Dosa batter,,$8.50,1,$0.00,$8.50,$0.000,$8.50,false,,0,$0.00,CREDIT: Visa 2178,"2/4/24, 12:12 PM",$17.00,$0.00,$0.00,$17.00,$0.00,CAPTURED,na,na,na
+Hot Lunch - With Rice,,$25.00,1,$0.00,$25.00,$2.340,$27.34,false,,0,$0.00,CREDIT: Visa 8642,"2/4/24, 12:17 PM",$29.34,$0.00,$0.00,$29.34,$0.00,CAPTURED,Arpith,na,na
+Vada,,$2.00,1,$0.00,$2.00,$0.000,$2.00,false,,0,$0.00,CREDIT: Visa 8642,"2/4/24, 12:17 PM",$29.34,$0.00,$0.00,$29.34,$0.00,CAPTURED,Arpith,na,na
+Pongal,,$11.00,1,$0.00,$11.00,$0.900,$11.90,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 11:57 AM",$60.59,$0.00,$0.00,$60.59,$0.00,CAPTURED,Nishita R,na,855-973-1040
+Thatte Idly,,$11.00,1,$0.00,$11.00,$0.900,$11.90,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 11:57 AM",$60.59,$0.00,$0.00,$60.59,$0.00,CAPTURED,Nishita R,na,855-973-1040
+Medhu Vada,,$11.00,1,$0.00,$11.00,$0.900,$11.90,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 11:57 AM",$60.59,$0.00,$0.00,$60.59,$0.00,CAPTURED,Nishita R,na,855-973-1040
+Hot Lunch - No Rice,,$23.00,1,$0.00,$23.00,$1.890,$24.89,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 11:57 AM",$60.59,$0.00,$0.00,$60.59,$0.00,CAPTURED,Nishita R,na,855-973-1040
+Thatte Idly,,$11.00,2,$0.00,$22.00,$2.060,$24.06,false,,0,$0.00,OTHER: Uber Eats,"2/4/24, 12:15 PM",$36.69,$0.00,$0.00,$36.69,$0.00,CAPTURED,Gokul M,na,na
+Pongal Vada Combo,,$11.55,1,$0.00,$11.55,$1.080,$12.63,false,,0,$0.00,OTHER: Uber Eats,"2/4/24, 12:15 PM",$36.69,$0.00,$0.00,$36.69,$0.00,CAPTURED,Gokul M,na,na
+Pongal,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Mastercard 0489,"2/4/24, 12:18 PM",$15.32,$0.00,$0.00,$15.32,$0.00,CAPTURED,na,na,na
+Filter Coffee,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Mastercard 0489,"2/4/24, 12:18 PM",$15.32,$0.00,$0.00,$15.32,$0.00,CAPTURED,na,na,na
+Filter Coffee,,$4.00,1,$0.00,$4.00,$0.370,$4.37,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 12:06 PM",$18.81,$0.00,$0.00,$18.81,$0.00,CAPTURED,Sriram P,na,855-973-1040
+Mini Tiffin,,$13.20,1,$0.00,$13.20,$1.240,$14.44,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 12:06 PM",$18.81,$0.00,$0.00,$18.81,$0.00,CAPTURED,Sriram P,na,855-973-1040
+Sambar Idly,,$8.00,1,$0.00,$8.00,$0.750,$8.75,false,,0,$0.00,CREDIT: Visa 0541,"2/4/24, 12:31 PM",$8.75,$0.00,$0.00,$8.75,$0.00,CAPTURED,Mayuresh Kulkarni,na,313-960-2809
+Mylapore Express Curries,,$18.00,1,$0.00,$18.00,$0.000,$18.00,false,,0,$0.00,CREDIT: Visa 7371,"2/4/24, 12:23 PM",$26.00,$0.00,$0.00,$26.00,$0.00,CAPTURED,na,4ed547e1-8e22-44c4-bb14-00be58070ea6,na
+Carrot Halwa,,$8.00,1,$0.00,$8.00,$0.000,$8.00,false,,0,$0.00,CREDIT: Visa 7371,"2/4/24, 12:23 PM",$26.00,$0.00,$0.00,$26.00,$0.00,CAPTURED,na,4ed547e1-8e22-44c4-bb14-00be58070ea6,na
+Coconut Chutney,,$2.00,2,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Visa 9100,"2/4/24, 12:26 PM",$4.38,$0.00,$0.00,$4.38,$0.00,CAPTURED,na,na,na
+Coconut Chutney,,$2.00,1,$0.00,$2.00,$0.090,$2.09,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 12:15 PM",$14.16,$0.00,$0.00,$14.16,$0.00,CAPTURED,Manan S,na,855-973-1040
+Idly Vada Combo,,$11.55,1,$0.00,$11.55,$0.520,$12.07,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 12:15 PM",$14.16,$0.00,$0.00,$14.16,$0.00,CAPTURED,Manan S,na,855-973-1040
+Filter Coffee,,$3.80,1,$0.00,$3.80,$0.360,$4.16,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 12:21 PM",$16.19,$0.00,$0.00,$16.19,$0.00,CAPTURED,Santrupti M,na,855-973-1040
+Idly Vada Combo,,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 12:21 PM",$16.19,$0.00,$0.00,$16.19,$0.00,CAPTURED,Santrupti M,na,855-973-1040
+Mylapore Express Curry (Single),,$10.00,1,$0.00,$10.00,$0.000,$10.00,false,,0,$0.00,CREDIT: Visa 2998,"2/4/24, 12:32 PM",$10.00,$0.00,$0.00,$10.00,$0.00,CAPTURED,na,na,na
+Filter Coffee,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Visa 2355,"2/4/24, 12:33 PM",$4.38,$0.00,$0.00,$4.38,$0.00,CAPTURED,na,e323d95c-16a6-4ad8-850f-1dad6de915bb,na
+Mini Idly - Sambar On the Side,,$10.50,1,$0.00,$10.50,$0.980,$11.48,false,,0,$0.00,CREDIT: Visa 8124,"2/4/24, 12:47 PM",$32.81,$0.00,$0.00,$32.81,$0.00,CAPTURED,Som,c18d4a85-a94f-444c-a66c-1da821f1a2ac,765-775-9455
+Sambar - 8oz,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Visa 8124,"2/4/24, 12:47 PM",$32.81,$0.00,$0.00,$32.81,$0.00,CAPTURED,Som,c18d4a85-a94f-444c-a66c-1da821f1a2ac,765-775-9455
+Vegan Filter Coffee,,$4.50,1,$0.00,$4.50,$0.420,$4.92,false,,0,$0.00,CREDIT: Visa 8124,"2/4/24, 12:47 PM",$32.81,$0.00,$0.00,$32.81,$0.00,CAPTURED,Som,c18d4a85-a94f-444c-a66c-1da821f1a2ac,765-775-9455
+Onion Tomato Uthappam (2 pcs),,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,CREDIT: Visa 8124,"2/4/24, 12:47 PM",$32.81,$0.00,$0.00,$32.81,$0.00,CAPTURED,Som,c18d4a85-a94f-444c-a66c-1da821f1a2ac,765-775-9455
+Vegetable Biriyani,,$11.00,2,$0.00,$22.00,$2.060,$24.06,false,,0,$0.00,CREDIT: Amex 9775,"2/4/24, 12:38 PM",$24.06,$1.50,$0.00,$25.56,$0.00,CAPTURED,Anish,na,na
+Dosa batter,,$8.50,1,$0.00,$8.50,$0.000,$8.50,false,,0,$0.00,CREDIT: Mastercard 3974,"2/4/24, 12:39 PM",$8.50,$0.00,$0.00,$8.50,$0.00,CAPTURED,na,na,na
+Dosa batter,,$8.50,1,$0.00,$8.50,$0.000,$8.50,false,,0,$0.00,CREDIT: Visa 6217,"2/4/24, 12:44 PM",$21.38,$0.00,$0.00,$21.38,$0.00,CAPTURED,na,na,na
+Adai batter,,$8.50,1,$0.00,$8.50,$0.000,$8.50,false,,0,$0.00,CREDIT: Visa 6217,"2/4/24, 12:44 PM",$21.38,$0.00,$0.00,$21.38,$0.00,CAPTURED,na,na,na
+Filter Coffee,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Visa 6217,"2/4/24, 12:44 PM",$21.38,$0.00,$0.00,$21.38,$0.00,CAPTURED,na,na,na
+Mylapore Express Curries,,$18.00,1,$0.00,$18.00,$0.000,$18.00,false,,0,$0.00,CREDIT: Visa 7425,"2/4/24, 12:44 PM",$18.00,$0.00,$0.00,$18.00,$0.00,CAPTURED,na,na,na
+Medhu Vada,,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 12:31 PM",$24.06,$0.00,$0.00,$24.06,$0.00,CAPTURED,Praveen P,na,855-973-1040
+Thatte Idly,,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 12:31 PM",$24.06,$0.00,$0.00,$24.06,$0.00,CAPTURED,Praveen P,na,855-973-1040
+Sambar Idly,,$8.00,1,$0.00,$8.00,$0.750,$8.75,false,,0,$0.00,CREDIT: Visa 4831,"2/4/24, 1:13 PM",$20.78,$0.00,$0.00,$20.78,$0.00,CAPTURED,Amay,na,na
+Onion Tomato Chilli Uthappam (2 pcs),,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,CREDIT: Visa 4831,"2/4/24, 1:13 PM",$20.78,$0.00,$0.00,$20.78,$0.00,CAPTURED,Amay,na,na
+Idly Batter,,$8.50,1,$0.00,$8.50,$0.000,$8.50,false,,0,$0.00,CREDIT: Visa 3529,"2/4/24, 1:14 PM",$12.88,$1.88,$0.00,$14.76,$0.00,CAPTURED,na,na,na
+Filter Coffee,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Visa 3529,"2/4/24, 1:14 PM",$12.88,$1.88,$0.00,$14.76,$0.00,CAPTURED,na,na,na
+Thatte Idly,,$10.00,3,$0.00,$30.00,$2.810,$32.81,false,,0,$0.00,CREDIT: Amex 1005,"2/4/24, 1:14 PM",$32.81,$0.00,$0.00,$32.81,$0.00,CAPTURED,Vivak,na,na
+Filter Coffee,,$4.00,2,$0.00,$8.00,$0.750,$8.75,false,,0,$0.00,CREDIT: Visa 5923,"2/4/24, 1:00 PM",$30.63,$0.00,$0.00,$30.63,$0.00,CAPTURED,Ravi Kurlagunda,a70dfb38-7bd7-427b-8bff-7cb9a1a04650,510-921-2082
+Mini Podi Idly,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 5923,"2/4/24, 1:00 PM",$30.63,$0.00,$0.00,$30.63,$0.00,CAPTURED,Ravi Kurlagunda,a70dfb38-7bd7-427b-8bff-7cb9a1a04650,510-921-2082
+Bisibele Bath,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 5923,"2/4/24, 1:00 PM",$30.63,$0.00,$0.00,$30.63,$0.00,CAPTURED,Ravi Kurlagunda,a70dfb38-7bd7-427b-8bff-7cb9a1a04650,510-921-2082
+Hot Lunch - No Rice,,$21.90,1,$0.00,$21.90,$2.050,$23.95,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 1:04 PM",$23.95,$0.00,$0.00,$23.95,$0.00,CAPTURED,Krishnaraj C,na,855-973-1040
+Extra Idly,,$2.50,1,$0.00,$2.50,$0.230,$2.73,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 1:03 PM",$39.92,$0.00,$0.00,$39.92,$0.00,CAPTURED,Charuta D,na,855-973-1040
+Medhu Vada,,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 1:03 PM",$39.92,$0.00,$0.00,$39.92,$0.00,CAPTURED,Charuta D,na,855-973-1040
+Hot Lunch - No Rice,,$23.00,1,$0.00,$23.00,$2.160,$25.16,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 1:03 PM",$39.92,$0.00,$0.00,$39.92,$0.00,CAPTURED,Charuta D,na,855-973-1040
+Thattte Idly,,$10.00,2,$0.00,$20.00,$1.880,$21.88,false,,0,$0.00,CREDIT: Visa 7402,"2/4/24, 1:35 PM",$32.82,$2.00,$0.00,$34.82,$0.00,CAPTURED,Selvan,a8a165d7-f529-4889-956f-452d695c2755,510-432-4190
+Medhu Vada,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 7402,"2/4/24, 1:35 PM",$32.82,$2.00,$0.00,$34.82,$0.00,CAPTURED,Selvan,a8a165d7-f529-4889-956f-452d695c2755,510-432-4190
+Thatte Idly,,$10.00,2,$0.00,$20.00,$1.880,$21.88,false,,0,$0.00,CREDIT: Visa 6281,"2/4/24, 1:48 PM",$41.57,$0.00,$0.00,$41.57,$0.00,CAPTURED,Ashwin,na,650-235-6500
+Medhu Vada,Extra Coco,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 6281,"2/4/24, 1:48 PM",$41.57,$0.00,$0.00,$41.57,$0.00,CAPTURED,Ashwin,na,650-235-6500
+Sambar - 16oz,,$8.00,1,$0.00,$8.00,$0.750,$8.75,false,,0,$0.00,CREDIT: Visa 6281,"2/4/24, 1:48 PM",$41.57,$0.00,$0.00,$41.57,$0.00,CAPTURED,Ashwin,na,650-235-6500
+Dosa batter,,$8.50,1,$0.00,$8.50,$0.000,$8.50,false,,0,$0.00,CREDIT: Visa 2243,"2/4/24, 1:24 PM",$54.20,$0.00,$0.00,$54.20,$0.00,CAPTURED,Nikki,na,na
+Idly Batter,,$8.50,1,$0.00,$8.50,$0.000,$8.50,false,,0,$0.00,CREDIT: Visa 2243,"2/4/24, 1:24 PM",$54.20,$0.00,$0.00,$54.20,$0.00,CAPTURED,Nikki,na,na
+Thatte Idly,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 2243,"2/4/24, 1:24 PM",$54.20,$0.00,$0.00,$54.20,$0.00,CAPTURED,Nikki,na,na
+Pongal,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 2243,"2/4/24, 1:24 PM",$54.20,$0.00,$0.00,$54.20,$0.00,CAPTURED,Nikki,na,na
+Mini Podi Idly,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 2243,"2/4/24, 1:24 PM",$54.20,$0.00,$0.00,$54.20,$0.00,CAPTURED,Nikki,na,na
+Filter Coffee,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Visa 2243,"2/4/24, 1:24 PM",$54.20,$0.00,$0.00,$54.20,$0.00,CAPTURED,Nikki,na,na
+Filter Coffee,,$4.00,3,$0.00,$12.00,$1.120,$13.12,false,,0,$0.00,CREDIT: Mastercard 3835,"2/4/24, 1:24 PM",$13.12,$0.00,$0.00,$13.12,$0.00,CAPTURED,na,na,na
+Vada Idly Pongal (VIP),,$10.50,1,$1.34,$9.16,$0.860,$10.02,false,,0,$0.00,CREDIT: Discover 7146,"2/4/24, 1:27 PM",$23.39,$0.00,$0.00,$23.39,$0.00,CAPTURED,Ab,ee7c96de-f1d7-41ae-a83a-5dba76035f7b,na
+Mini Idly,,$10.00,1,$1.27,$8.73,$0.820,$9.55,false,,0,$0.00,CREDIT: Discover 7146,"2/4/24, 1:27 PM",$23.39,$0.00,$0.00,$23.39,$0.00,CAPTURED,Ab,ee7c96de-f1d7-41ae-a83a-5dba76035f7b,na
+Filter Coffee,,$4.00,1,$0.51,$3.49,$0.330,$3.82,false,,0,$0.00,CREDIT: Discover 7146,"2/4/24, 1:27 PM",$23.39,$0.00,$0.00,$23.39,$0.00,CAPTURED,Ab,ee7c96de-f1d7-41ae-a83a-5dba76035f7b,na
+Thatte Idly,,$11.00,1,$0.00,$11.00,$0.710,$11.71,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 1:14 PM",$24.01,$0.00,$0.00,$24.01,$0.00,CAPTURED,Surbhi D,na,855-973-1040
+Idly Vada Combo,,$11.55,1,$0.00,$11.55,$0.750,$12.30,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 1:14 PM",$24.01,$0.00,$0.00,$24.01,$0.00,CAPTURED,Surbhi D,na,855-973-1040
+Extra Vada,,$2.00,4,$0.00,$8.00,$0.750,$8.75,false,,0,$0.00,CREDIT: Visa 0584,"2/4/24, 1:28 PM",$8.75,$0.00,$0.00,$8.75,$0.00,CAPTURED,na,na,na
+Dosa batter,,$8.50,1,$0.00,$8.50,$0.000,$8.50,false,,0,$0.00,CREDIT: Visa 9945,"2/4/24, 1:29 PM",$8.50,$0.00,$0.00,$8.50,$0.00,CAPTURED,na,na,na
+Coconut Chutney,,$2.00,1,$0.00,$2.00,$0.190,$2.19,false,,0,$0.00,CREDIT: Visa 2161,"2/4/24, 1:30 PM",$7.66,$0.00,$0.00,$7.66,$0.00,CAPTURED,na,na,na
+Tomato Chutney,,$1.50,1,$0.00,$1.50,$0.140,$1.64,false,,0,$0.00,CREDIT: Visa 2161,"2/4/24, 1:30 PM",$7.66,$0.00,$0.00,$7.66,$0.00,CAPTURED,na,na,na
+Coconut Chutney,,$2.00,1,$0.00,$2.00,$0.190,$2.19,false,,0,$0.00,CREDIT: Visa 2161,"2/4/24, 1:30 PM",$7.66,$0.00,$0.00,$7.66,$0.00,CAPTURED,na,na,na
+Tomato Chutney,,$1.50,1,$0.00,$1.50,$0.140,$1.64,false,,0,$0.00,CREDIT: Visa 2161,"2/4/24, 1:30 PM",$7.66,$0.00,$0.00,$7.66,$0.00,CAPTURED,na,na,na
+Idly Vada Combo,,$10.50,1,$0.00,$10.50,$0.980,$11.48,false,,0,$0.00,CREDIT: Visa 8208,"2/4/24, 1:33 PM",$16.95,$0.00,$0.00,$16.95,$0.00,CAPTURED,Ram,na,na
+Rava Kesari,,$5.00,1,$0.00,$5.00,$0.470,$5.47,false,,0,$0.00,CREDIT: Visa 8208,"2/4/24, 1:33 PM",$16.95,$0.00,$0.00,$16.95,$0.00,CAPTURED,Ram,na,na
+Idly Vada Combo,,$10.50,1,$0.00,$10.50,$0.980,$11.48,false,,0,$0.00,CREDIT: Visa 4458,"2/4/24, 1:34 PM",$11.48,$0.00,$0.00,$11.48,$0.00,CAPTURED,Goyal,na,na
+Mini Tiffin,,$12.00,1,$0.00,$12.00,$1.120,$13.12,false,,0,$0.00,CREDIT: Visa 6339,"2/4/24, 1:34 PM",$24.60,$0.00,$0.00,$24.60,$0.00,CAPTURED,Manu,na,na
+Mini Idly - Sambar On the Side,,$10.50,1,$0.00,$10.50,$0.980,$11.48,false,,0,$0.00,CREDIT: Visa 6339,"2/4/24, 1:34 PM",$24.60,$0.00,$0.00,$24.60,$0.00,CAPTURED,Manu,na,na
+Idly Batter,,$8.50,1,$0.35,$8.15,$0.000,$8.15,false,,0,$0.00,CREDIT: Visa 7237,"2/4/24, 1:39 PM",$64.16,$0.00,$0.00,$64.16,$0.00,CAPTURED,Rupal,ba691a69-454f-430b-8b94-8abc454d0a62,na
+Dosa batter,,$8.50,1,$0.35,$8.15,$0.000,$8.15,false,,0,$0.00,CREDIT: Visa 7237,"2/4/24, 1:39 PM",$64.16,$0.00,$0.00,$64.16,$0.00,CAPTURED,Rupal,ba691a69-454f-430b-8b94-8abc454d0a62,na
+Mylapore Express Curry (Single),,$10.00,1,$0.41,$9.59,$0.000,$9.59,false,,0,$0.00,CREDIT: Visa 7237,"2/4/24, 1:39 PM",$64.16,$0.00,$0.00,$64.16,$0.00,CAPTURED,Rupal,ba691a69-454f-430b-8b94-8abc454d0a62,na
+Hot Badam Milk,,$4.00,2,$0.33,$7.67,$0.720,$8.39,false,,0,$0.00,CREDIT: Visa 7237,"2/4/24, 1:39 PM",$64.16,$0.00,$0.00,$64.16,$0.00,CAPTURED,Rupal,ba691a69-454f-430b-8b94-8abc454d0a62,na
+Thatte Idly,All Coco,$10.00,1,$0.41,$9.59,$0.900,$10.49,false,,0,$0.00,CREDIT: Visa 7237,"2/4/24, 1:39 PM",$64.16,$0.00,$0.00,$64.16,$0.00,CAPTURED,Rupal,ba691a69-454f-430b-8b94-8abc454d0a62,na
+Idly Vada Combo,,$10.50,1,$0.44,$10.06,$0.940,$11.00,false,,0,$0.00,CREDIT: Visa 7237,"2/4/24, 1:39 PM",$64.16,$0.00,$0.00,$64.16,$0.00,CAPTURED,Rupal,ba691a69-454f-430b-8b94-8abc454d0a62,na
+Sambar - 16oz,,$8.00,1,$0.33,$7.67,$0.720,$8.39,false,,0,$0.00,CREDIT: Visa 7237,"2/4/24, 1:39 PM",$64.16,$0.00,$0.00,$64.16,$0.00,CAPTURED,Rupal,ba691a69-454f-430b-8b94-8abc454d0a62,na
+Filter Coffee,,$4.00,2,$0.00,$8.00,$0.750,$8.75,false,,0,$0.00,CREDIT: Visa 8608,"2/4/24, 1:40 PM",$8.75,$1.20,$0.00,$9.95,$0.00,CAPTURED,na,na,na
+Medhu Vada,,$10.50,1,$0.00,$10.50,$0.990,$11.49,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 1:54 PM",$23.52,$0.00,$0.00,$23.52,$0.00,CAPTURED,Amit G,na,855-973-1040
+Mini Idly - Sambar On the Side,,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 1:54 PM",$23.52,$0.00,$0.00,$23.52,$0.00,CAPTURED,Amit G,na,855-973-1040
+Hot Badam Milk,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Discover 1514,"2/4/24, 2:05 PM",$4.38,$0.00,$0.00,$4.38,$0.00,CAPTURED,na,na,na
+Sambar - 8oz,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 1:53 PM",$16.41,$0.00,$0.00,$16.41,$0.00,CAPTURED,Mihir R,na,855-973-1040
+Bisibele Bath,,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 1:53 PM",$16.41,$0.00,$0.00,$16.41,$0.00,CAPTURED,Mihir R,na,855-973-1040
+Pongal,,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 1:53 PM",$50.53,$0.00,$0.00,$50.53,$0.00,CAPTURED,Priya P,na,855-973-1040
+Bisibele Bath,,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 1:53 PM",$50.53,$0.00,$0.00,$50.53,$0.00,CAPTURED,Priya P,na,855-973-1040
+Mini Podi Idly,,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 1:53 PM",$50.53,$0.00,$0.00,$50.53,$0.00,CAPTURED,Priya P,na,855-973-1040
+Mini Tiffin,,$13.20,1,$0.00,$13.20,$1.240,$14.44,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 1:53 PM",$50.53,$0.00,$0.00,$50.53,$0.00,CAPTURED,Priya P,na,855-973-1040
+Mylapore Express Curry (Single),,$10.00,1,$0.00,$10.00,$0.000,$10.00,false,,0,$0.00,CREDIT: Visa 4147,"2/4/24, 2:11 PM",$10.00,$0.00,$0.00,$10.00,$0.00,CAPTURED,na,na,na
+Extra Idly,,$2.50,1,$0.00,$2.50,$0.230,$2.73,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 2:00 PM",$15.37,$0.00,$0.00,$15.37,$0.00,CAPTURED,Aishwarya S,na,855-973-1040
+Idly Vada Combo,,$11.55,1,$0.00,$11.55,$1.090,$12.64,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 2:00 PM",$15.37,$0.00,$0.00,$15.37,$0.00,CAPTURED,Aishwarya S,na,855-973-1040
+Hot Lunch - No Rice,,$22.00,1,$0.00,$22.00,$2.060,$24.06,false,,0,$0.00,CREDIT: Amex 8677,"2/4/24, 2:35 PM",$39.38,$0.00,$0.00,$39.38,$0.00,CAPTURED,Manu,1730bd6d-8c7b-46ae-aaf2-cb4466f8c3f8,214-606-2736
+Hot Badam Milk,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Amex 8677,"2/4/24, 2:35 PM",$39.38,$0.00,$0.00,$39.38,$0.00,CAPTURED,Manu,1730bd6d-8c7b-46ae-aaf2-cb4466f8c3f8,214-606-2736
+Parotta Kurma,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Amex 8677,"2/4/24, 2:35 PM",$39.38,$0.00,$0.00,$39.38,$0.00,CAPTURED,Manu,1730bd6d-8c7b-46ae-aaf2-cb4466f8c3f8,214-606-2736
+Thatte Idly,Jain Sambar,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 8746,"2/4/24, 2:27 PM",$10.94,$0.00,$0.00,$10.94,$0.00,CAPTURED,Dhara,3f911daa-df84-4d29-a3e3-59763c31737a,650-630-9499
+Rose Milk,,$3.50,1,$0.00,$3.50,$0.330,$3.83,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 2:09 PM",$15.26,$0.00,$0.00,$15.26,$0.00,CAPTURED,Vikash R,na,855-973-1040
+Puliyodarai,,$10.45,1,$0.00,$10.45,$0.980,$11.43,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 2:09 PM",$15.26,$0.00,$0.00,$15.26,$0.00,CAPTURED,Vikash R,na,855-973-1040
+Vada Idly Pongal (VIP),,$10.50,1,$0.00,$10.50,$0.980,$11.48,false,,0,$0.00,CREDIT: Visa 4185,"2/4/24, 2:24 PM",$27.34,$0.00,$0.00,$27.34,$0.00,CAPTURED,Kartik,na,na
+Vegetable Biriyani,,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,CREDIT: Visa 4185,"2/4/24, 2:24 PM",$27.34,$0.00,$0.00,$27.34,$0.00,CAPTURED,Kartik,na,na
+Spiced Buttermilk,,$3.50,1,$0.00,$3.50,$0.330,$3.83,false,,0,$0.00,CREDIT: Visa 4185,"2/4/24, 2:24 PM",$27.34,$0.00,$0.00,$27.34,$0.00,CAPTURED,Kartik,na,na
+Rose Milk,,$3.50,2,$0.00,$7.00,$0.660,$7.66,false,,0,$0.00,CREDIT: Mastercard 7485,"2/4/24, 2:25 PM",$19.69,$0.00,$0.00,$19.69,$0.00,CAPTURED,na,na,na
+Onion Tomato Chili Uthappam (2 pcs),,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,CREDIT: Mastercard 7485,"2/4/24, 2:25 PM",$19.69,$0.00,$0.00,$19.69,$0.00,CAPTURED,na,na,na
+Idly Batter,,$8.50,1,$0.00,$8.50,$0.000,$8.50,false,,0,$0.00,CREDIT: Visa 3529,"2/4/24, 2:28 PM",$8.50,$0.00,$0.00,$8.50,$0.00,CAPTURED,na,na,na
+Puliyodarai,,$10.45,1,$0.00,$10.45,$0.980,$11.43,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 2:15 PM",$36.09,$0.00,$0.00,$36.09,$0.00,CAPTURED,Sashidhar R,na,855-973-1040
+Thatte Idly,,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 2:15 PM",$36.09,$0.00,$0.00,$36.09,$0.00,CAPTURED,Sashidhar R,na,855-973-1040
+Pongal Vada Combo,,$11.55,1,$0.00,$11.55,$1.080,$12.63,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 2:15 PM",$36.09,$0.00,$0.00,$36.09,$0.00,CAPTURED,Sashidhar R,na,855-973-1040
+Thatte Idly,,$10.00,2,$0.00,$20.00,$1.880,$21.88,false,,0,$0.00,CREDIT: Visa 0305,"2/4/24, 2:31 PM",$31.73,$0.00,$0.00,$31.73,$0.00,CAPTURED,Murali,374b8627-7e9b-4cf8-803d-43a515249b26,na
+Rava Kesari,,$5.00,1,$0.00,$5.00,$0.470,$5.47,false,,0,$0.00,CREDIT: Visa 0305,"2/4/24, 2:31 PM",$31.73,$0.00,$0.00,$31.73,$0.00,CAPTURED,Murali,374b8627-7e9b-4cf8-803d-43a515249b26,na
+Filter Coffee,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Visa 0305,"2/4/24, 2:31 PM",$31.73,$0.00,$0.00,$31.73,$0.00,CAPTURED,Murali,374b8627-7e9b-4cf8-803d-43a515249b26,na
+Onion Uthappam (2 pcs),,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,CREDIT: Discover 3855,"2/4/24, 2:34 PM",$42.67,$0.00,$0.00,$42.67,$0.00,CAPTURED,Prashant,c5b46308-726e-4b36-98b6-d4864fc55b8d,na
+Pongal,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Discover 3855,"2/4/24, 2:34 PM",$42.67,$0.00,$0.00,$42.67,$0.00,CAPTURED,Prashant,c5b46308-726e-4b36-98b6-d4864fc55b8d,na
+Filter Coffee,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Discover 3855,"2/4/24, 2:34 PM",$42.67,$0.00,$0.00,$42.67,$0.00,CAPTURED,Prashant,c5b46308-726e-4b36-98b6-d4864fc55b8d,na
+Hot Badam Milk,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Discover 3855,"2/4/24, 2:34 PM",$42.67,$0.00,$0.00,$42.67,$0.00,CAPTURED,Prashant,c5b46308-726e-4b36-98b6-d4864fc55b8d,na
+Mini Idly,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Discover 3855,"2/4/24, 2:34 PM",$42.67,$0.00,$0.00,$42.67,$0.00,CAPTURED,Prashant,c5b46308-726e-4b36-98b6-d4864fc55b8d,na
+Idly Vada Combo,,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 2:26 PM",$12.03,$1.20,$0.00,$13.23,$0.00,CAPTURED,Pardip T,na,855-973-1040
+Onion Tomato Chili Uthappam (2 pcs),,$11.00,1,$2.75,$8.25,$0.770,$9.02,false,,0,$0.00,CREDIT: Visa 5237,"2/4/24, 2:36 PM",$9.02,$0.00,$0.00,$9.02,$0.00,CAPTURED,Lokash,e891cd94-3c8b-466d-a259-5ec1b25cf41a,na
+Dosa batter,,$8.50,1,$0.00,$8.50,$0.000,$8.50,false,,0,$0.00,CREDIT: Visa 8253,"2/4/24, 2:36 PM",$8.50,$0.00,$0.00,$8.50,$0.00,CAPTURED,na,na,na
+Vegetable Biriyani,,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,CREDIT: Amex 1006,"2/4/24, 2:39 PM",$12.03,$1.65,$0.00,$13.68,$0.00,CAPTURED,Subramaniam,na,na
+Mylapore Express Curries,,$18.00,2,$0.00,$36.00,$0.000,$36.00,false,,0,$0.00,CREDIT: Visa 5237,"2/4/24, 2:41 PM",$36.00,$0.00,$0.00,$36.00,$0.00,CAPTURED,na,e891cd94-3c8b-466d-a259-5ec1b25cf41a,na
+Idly Vada Combo,,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 3:24 PM",$12.03,$0.00,$0.00,$12.03,$0.00,CAPTURED,Prateek J,na,855-973-1040
+Filter Coffee,,$4.00,3,$0.00,$12.00,$1.120,$13.12,false,,0,$0.00,CREDIT: Visa 3521,"2/4/24, 3:34 PM",$13.12,$0.00,$0.00,$13.12,$0.00,CAPTURED,na,na,na
+Medhu Vada,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Discover 8100,"2/4/24, 3:41 PM",$26.26,$3.60,$0.00,$29.86,$0.00,CAPTURED,Jk,na,na
+Bisibele Bath,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Discover 8100,"2/4/24, 3:41 PM",$26.26,$3.60,$0.00,$29.86,$0.00,CAPTURED,Jk,na,na
+Filter Coffee,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Discover 8100,"2/4/24, 3:41 PM",$26.26,$3.60,$0.00,$29.86,$0.00,CAPTURED,Jk,na,na
+Filter Coffee,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Visa 2404,"2/4/24, 3:42 PM",$4.38,$0.00,$0.00,$4.38,$0.00,CAPTURED,na,na,na
+Idly Batter,,$8.50,2,$1.52,$15.48,$0.000,$15.48,false,,0,$0.00,CREDIT: Mastercard 1461,"2/4/24, 3:54 PM",$71.58,$0.00,$0.00,$71.58,$0.00,CAPTURED,na,344b6be6-dbb7-41b9-9603-b51f5a398b8a,na
+Mylapore Express Curries,,$18.00,3,$4.82,$49.18,$0.000,$49.18,false,,0,$0.00,CREDIT: Mastercard 1461,"2/4/24, 3:54 PM",$71.58,$0.00,$0.00,$71.58,$0.00,CAPTURED,na,344b6be6-dbb7-41b9-9603-b51f5a398b8a,na
+Idly Milaga Podi,,$6.95,1,$0.62,$6.33,$0.590,$6.92,false,,0,$0.00,CREDIT: Mastercard 1461,"2/4/24, 3:54 PM",$71.58,$0.00,$0.00,$71.58,$0.00,CAPTURED,na,344b6be6-dbb7-41b9-9603-b51f5a398b8a,na
+Idly Vada Combo,,$10.50,1,$0.00,$10.50,$0.980,$11.48,false,,0,$0.00,CREDIT: Visa 7717,"2/4/24, 3:33 PM",$11.48,$0.00,$0.00,$11.48,$0.00,CAPTURED,Neha K,dde34788-4db9-4c66-b806-7dabb78efd24,669-577-6878
+Mini Idly,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 0191,"2/4/24, 3:56 PM",$10.94,$0.00,$0.00,$10.94,$0.00,CAPTURED,Rohit,na,na
+Masala Chai,,$3.50,1,$0.00,$3.50,$0.330,$3.83,false,,0,$0.00,CREDIT: Visa 3903,"2/4/24, 4:00 PM",$3.83,$0.00,$0.00,$3.83,$0.00,CAPTURED,na,na,na
+Vada Idly Pongal (VIP),(Please label for Amogh),$11.55,1,$0.00,$11.55,$1.080,$12.63,false,,0,$0.00,OTHER: Uber Eats,"2/4/24, 3:56 PM",$12.63,$0.00,$0.00,$12.63,$0.00,CAPTURED,harkirat S,na,na
+Vegetable Biriyani,,$12.10,1,$0.00,$12.10,$1.100,$13.20,false,,0,$0.00,OTHER: Uber Eats,"2/4/24, 3:59 PM",$70.33,$0.00,$0.00,$70.33,$0.00,CAPTURED,Akshaya R,na,na
+Jangri,,$12.00,1,$0.00,$12.00,$1.090,$13.09,false,,0,$0.00,OTHER: Uber Eats,"2/4/24, 3:59 PM",$70.33,$0.00,$0.00,$70.33,$0.00,CAPTURED,Akshaya R,na,na
+Vegetable Pakoda,,$7.95,2,$0.00,$15.90,$1.450,$17.35,false,,0,$0.00,OTHER: Uber Eats,"2/4/24, 3:59 PM",$70.33,$0.00,$0.00,$70.33,$0.00,CAPTURED,Akshaya R,na,na
+Samosa - 3 pcs,,$5.50,1,$0.00,$5.50,$0.500,$6.00,false,,0,$0.00,OTHER: Uber Eats,"2/4/24, 3:59 PM",$70.33,$0.00,$0.00,$70.33,$0.00,CAPTURED,Akshaya R,na,na
+Masala Vada (6pcs),,$7.95,1,$0.00,$7.95,$0.730,$8.68,false,,0,$0.00,OTHER: Uber Eats,"2/4/24, 3:59 PM",$70.33,$0.00,$0.00,$70.33,$0.00,CAPTURED,Akshaya R,na,na
+Parotta Kurma,,$11.00,1,$0.00,$11.00,$1.010,$12.01,false,,0,$0.00,OTHER: Uber Eats,"2/4/24, 3:59 PM",$70.33,$0.00,$0.00,$70.33,$0.00,CAPTURED,Akshaya R,na,na
+Masala Chai,,$3.50,2,$0.00,$7.00,$0.660,$7.66,false,,0,$0.00,CREDIT: Visa 1586,"2/4/24, 4:04 PM",$16.36,$0.00,$0.00,$16.36,$0.00,CAPTURED,na,da7e3e26-576a-47d3-bd7f-7128f30e2796,na
+Rice Kheer,,$8.00,1,$0.00,$8.00,$0.000,$8.00,true,Customer Changed Mind,0,$0.00,CREDIT: Visa 1586,"2/4/24, 4:04 PM",$16.36,$0.00,$0.00,$16.36,$0.00,CAPTURED,na,da7e3e26-576a-47d3-bd7f-7128f30e2796,na
+Masala Vada (6pcs),,$7.95,1,$0.00,$7.95,$0.750,$8.70,false,,0,$0.00,CREDIT: Visa 1586,"2/4/24, 4:04 PM",$16.36,$0.00,$0.00,$16.36,$0.00,CAPTURED,na,da7e3e26-576a-47d3-bd7f-7128f30e2796,na
+Filter Coffee,,$4.00,3,$0.00,$12.00,$1.120,$13.12,false,,0,$0.00,CREDIT: Visa 6629,"2/4/24, 4:05 PM",$13.12,$1.00,$0.00,$14.12,$0.00,CAPTURED,na,na,na
+Thatte Idly,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 4031,"2/4/24, 4:17 PM",$15.32,$0.00,$0.00,$15.32,$0.00,CAPTURED,Abhilash Cardholder,171daad3-f8ca-4438-b45c-f2eef4be015c,408-859-0606
+Filter Coffee,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Visa 4031,"2/4/24, 4:17 PM",$15.32,$0.00,$0.00,$15.32,$0.00,CAPTURED,Abhilash Cardholder,171daad3-f8ca-4438-b45c-f2eef4be015c,408-859-0606
+Vegetable Pakoda,,$7.95,1,$0.00,$7.95,$0.750,$8.70,false,,0,$0.00,CREDIT: Mastercard 0740,"2/4/24, 4:10 PM",$16.36,$0.00,$0.00,$16.36,$0.00,CAPTURED,Subbu,na,na
+Masala Chai,,$3.50,1,$0.00,$3.50,$0.330,$3.83,false,,0,$0.00,CREDIT: Mastercard 0740,"2/4/24, 4:10 PM",$16.36,$0.00,$0.00,$16.36,$0.00,CAPTURED,Subbu,na,na
+Spiced Buttermilk,,$3.50,1,$0.00,$3.50,$0.330,$3.83,false,,0,$0.00,CREDIT: Mastercard 0740,"2/4/24, 4:10 PM",$16.36,$0.00,$0.00,$16.36,$0.00,CAPTURED,Subbu,na,na
+Thattte Idly,,$11.00,1,$0.00,$11.00,$1.130,$12.13,false,,0,$0.00,OTHER: Uber Eats,"2/4/24, 4:13 PM",$37.00,$0.00,$0.00,$37.00,$0.00,CAPTURED,Priyanka G,na,na
+Idly Vada Combo,,$11.55,1,$0.00,$11.55,$1.190,$12.74,false,,0,$0.00,OTHER: Uber Eats,"2/4/24, 4:13 PM",$37.00,$0.00,$0.00,$37.00,$0.00,CAPTURED,Priyanka G,na,na
+Mini Podi Idly,,$11.00,1,$0.00,$11.00,$1.130,$12.13,false,,0,$0.00,OTHER: Uber Eats,"2/4/24, 4:13 PM",$37.00,$0.00,$0.00,$37.00,$0.00,CAPTURED,Priyanka G,na,na
+Idly Batter,,$8.50,1,$0.00,$8.50,$0.000,$8.50,false,,0,$0.00,CREDIT: Amex 1006,"2/4/24, 4:16 PM",$8.50,$0.00,$0.00,$8.50,$0.00,CAPTURED,na,na,na
+Filter Coffee,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Visa 8143,"2/4/24, 4:17 PM",$4.38,$0.60,$0.00,$4.98,$0.00,CAPTURED,na,na,na
+Vegetable Pakoda,,$7.95,1,$0.00,$7.95,$0.750,$8.70,false,,0,$0.00,CREDIT: Amex 5004,"2/4/24, 4:19 PM",$13.08,$0.00,$0.00,$13.08,$0.00,CAPTURED,Anu,na,na
+Filter Coffee,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Amex 5004,"2/4/24, 4:19 PM",$13.08,$0.00,$0.00,$13.08,$0.00,CAPTURED,Anu,na,na
+Sambar - 16oz,Jain Sambhar,$8.00,1,$0.00,$8.00,$0.750,$8.75,false,,0,$0.00,CREDIT: Amex 1006,"2/4/24, 4:19 PM",$8.75,$0.00,$0.00,$8.75,$0.00,CAPTURED,na,na,na
+Idly Batter,,$8.50,1,$0.00,$8.50,$0.000,$8.50,false,,0,$0.00,CREDIT: Visa 6737,"2/4/24, 4:20 PM",$8.50,$0.00,$0.00,$8.50,$0.00,CAPTURED,na,na,na
+Mini Idly,,$11.00,1,$0.00,$11.00,$1.000,$12.00,false,,0,$0.00,OTHER: Uber Eats,"2/4/24, 5:20 PM",$36.61,$0.00,$0.00,$36.61,$0.00,CAPTURED,Vidyut K,na,na
+Medhu Vada,,$11.00,1,$0.00,$11.00,$1.010,$12.01,false,,0,$0.00,OTHER: Uber Eats,"2/4/24, 5:20 PM",$36.61,$0.00,$0.00,$36.61,$0.00,CAPTURED,Vidyut K,na,na
+Idly Vada Combo,,$11.55,1,$0.00,$11.55,$1.050,$12.60,false,,0,$0.00,OTHER: Uber Eats,"2/4/24, 5:20 PM",$36.61,$0.00,$0.00,$36.61,$0.00,CAPTURED,Vidyut K,na,na
+Vegetable Pakoda,,$7.95,1,$0.00,$7.95,$0.750,$8.70,false,,0,$0.00,CREDIT: Visa 1041,"2/4/24, 5:26 PM",$14.17,$0.00,$0.00,$14.17,$0.00,CAPTURED,Karthik,na,na
+Poori Masaal,,$5.00,1,$0.00,$5.00,$0.470,$5.47,false,,0,$0.00,CREDIT: Visa 1041,"2/4/24, 5:26 PM",$14.17,$0.00,$0.00,$14.17,$0.00,CAPTURED,Karthik,na,na
+Masala Chai,,$3.50,1,$0.00,$3.50,$0.330,$3.83,false,,0,$0.00,CREDIT: Visa 8715,"2/4/24, 5:33 PM",$3.83,$0.00,$0.00,$3.83,$0.00,CAPTURED,na,na,na
+Filter Coffee,,$3.80,1,$0.00,$3.80,$0.360,$4.16,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 5:16 PM",$22.91,$0.00,$0.00,$22.91,$0.00,CAPTURED,Karthik C,na,855-973-1040
+Vegetable Pakoda,,$7.60,1,$0.00,$7.60,$0.710,$8.31,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 5:16 PM",$22.91,$0.00,$0.00,$22.91,$0.00,CAPTURED,Karthik C,na,855-973-1040
+Butter Murukku,,$9.55,1,$0.00,$9.55,$0.890,$10.44,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 5:16 PM",$22.91,$0.00,$0.00,$22.91,$0.00,CAPTURED,Karthik C,na,855-973-1040
+Idly Vada Combo,,$10.50,1,$0.00,$10.50,$0.980,$11.48,false,,0,$0.00,CREDIT: Amex 0881,"2/4/24, 5:34 PM",$32.81,$0.00,$0.00,$32.81,$0.00,CAPTURED,Gagana,na,na
+Bisibele Bath,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Amex 0881,"2/4/24, 5:34 PM",$32.81,$0.00,$0.00,$32.81,$0.00,CAPTURED,Gagana,na,na
+Puliyodarai,,$9.50,1,$0.00,$9.50,$0.890,$10.39,false,,0,$0.00,CREDIT: Amex 0881,"2/4/24, 5:34 PM",$32.81,$0.00,$0.00,$32.81,$0.00,CAPTURED,Gagana,na,na
+Butter Murukku,,$10.00,1,$0.00,$10.00,$0.000,$10.00,false,,0,$0.00,CREDIT: Visa 1041,"2/4/24, 5:34 PM",$10.00,$0.00,$0.00,$10.00,$0.00,CAPTURED,na,na,na
+Hot Badam Milk,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Amex 0881,"2/4/24, 5:35 PM",$4.38,$0.00,$0.00,$4.38,$0.00,CAPTURED,na,na,na
+Mini Idly - Sambar On the Side,,$10.50,1,$0.00,$10.50,$0.980,$11.48,false,,0,$0.00,CREDIT: Visa 1773,"2/4/24, 6:45 PM",$50.87,$6.98,$0.00,$57.85,$0.00,CAPTURED,Hala,4730dfe6-f246-4f35-856f-7615768a8bed,630-261-5417
+Medhu Vada,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 1773,"2/4/24, 6:45 PM",$50.87,$6.98,$0.00,$57.85,$0.00,CAPTURED,Hala,4730dfe6-f246-4f35-856f-7615768a8bed,630-261-5417
+Pongal,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 1773,"2/4/24, 6:45 PM",$50.87,$6.98,$0.00,$57.85,$0.00,CAPTURED,Hala,4730dfe6-f246-4f35-856f-7615768a8bed,630-261-5417
+Sambar - 8oz,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Visa 1773,"2/4/24, 6:45 PM",$50.87,$6.98,$0.00,$57.85,$0.00,CAPTURED,Hala,4730dfe6-f246-4f35-856f-7615768a8bed,630-261-5417
+Rava Kesari,,$5.00,1,$0.00,$5.00,$0.470,$5.47,false,,0,$0.00,CREDIT: Visa 1773,"2/4/24, 6:45 PM",$50.87,$6.98,$0.00,$57.85,$0.00,CAPTURED,Hala,4730dfe6-f246-4f35-856f-7615768a8bed,630-261-5417
+Masala Chai,,$3.50,2,$0.00,$7.00,$0.660,$7.66,false,,0,$0.00,CREDIT: Visa 1773,"2/4/24, 6:45 PM",$50.87,$6.98,$0.00,$57.85,$0.00,CAPTURED,Hala,4730dfe6-f246-4f35-856f-7615768a8bed,630-261-5417
+Filter Coffee,,$4.00,2,$0.00,$8.00,$0.750,$8.75,false,,0,$0.00,CREDIT: Visa 3193,"2/4/24, 5:37 PM",$19.69,$2.70,$0.00,$22.39,$0.00,CAPTURED,Neha,na,na
+Medhu Vada,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 3193,"2/4/24, 5:37 PM",$19.69,$2.70,$0.00,$22.39,$0.00,CAPTURED,Neha,na,na
+Poori Masaal,,$5.00,2,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 8077,"2/4/24, 5:38 PM",$10.94,$0.00,$0.00,$10.94,$0.00,CAPTURED,Varsha,na,na
+Sambar Idly,,$8.00,1,$0.00,$8.00,$0.750,$8.75,false,,0,$0.00,CREDIT: Amex 3508,"2/4/24, 5:45 PM",$20.23,$0.00,$0.00,$20.23,$0.00,CAPTURED,Shri,na,na
+Pongal Vada Combo,,$10.50,1,$0.00,$10.50,$0.980,$11.48,false,,0,$0.00,CREDIT: Amex 3508,"2/4/24, 5:45 PM",$20.23,$0.00,$0.00,$20.23,$0.00,CAPTURED,Shri,na,na
+Extra Idly,,$2.50,1,$0.00,$2.50,$0.230,$2.73,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 5:29 PM",$21.55,$0.00,$0.00,$21.55,$0.00,CAPTURED,Swetha N,na,855-973-1040
+Sambar - 8oz,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 5:29 PM",$21.55,$0.00,$0.00,$21.55,$0.00,CAPTURED,Swetha N,na,855-973-1040
+Mini Tiffin,,$13.20,1,$0.00,$13.20,$1.240,$14.44,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 5:29 PM",$21.55,$0.00,$0.00,$21.55,$0.00,CAPTURED,Swetha N,na,855-973-1040
+Bisibele Bath,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Mastercard 9759,"2/4/24, 5:47 PM",$22.42,$0.00,$0.00,$22.42,$0.00,CAPTURED,Chandra,na,na
+Pongal Vada Combo,,$10.50,1,$0.00,$10.50,$0.980,$11.48,false,,0,$0.00,CREDIT: Mastercard 9759,"2/4/24, 5:47 PM",$22.42,$0.00,$0.00,$22.42,$0.00,CAPTURED,Chandra,na,na
+Masala Chai,,$3.50,1,$0.00,$3.50,$0.330,$3.83,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 5:35 PM",$3.83,$0.00,$0.00,$3.83,$0.00,CAPTURED,Prasanna P,na,855-973-1040
+Poondu Kuzhambu,,$10.00,1,$0.00,$10.00,$0.000,$10.00,false,,0,$0.00,CREDIT: Mastercard 9759,"2/4/24, 5:50 PM",$10.00,$0.00,$0.00,$10.00,$0.00,CAPTURED,na,na,na
+Karuveppillai Kuzhambu,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Amex 7531,"2/4/24, 5:52 PM",$28.19,$0.00,$0.00,$28.19,$0.00,CAPTURED,na,na,na
+Idly Batter,,$8.50,1,$0.00,$8.50,$0.000,$8.50,false,,0,$0.00,CREDIT: Amex 7531,"2/4/24, 5:52 PM",$28.19,$0.00,$0.00,$28.19,$0.00,CAPTURED,na,na,na
+Sambar - 16oz,,$8.00,1,$0.00,$8.00,$0.750,$8.75,false,,0,$0.00,CREDIT: Amex 7531,"2/4/24, 5:52 PM",$28.19,$0.00,$0.00,$28.19,$0.00,CAPTURED,na,na,na
+Idly Batter,,$8.50,5,$0.00,$42.50,$0.000,$42.50,false,,0,$0.00,CREDIT: Visa 4119,"2/4/24, 5:59 PM",$42.50,$0.00,$0.00,$42.50,$0.00,CAPTURED,na,na,na
+Water Bottle,,$1.00,1,$0.00,$1.00,$0.090,$1.09,false,,0,$0.00,Cash,"2/4/24, 6:00 PM",$1.09,$0.00,$0.00,$1.09,$0.00,CAPTURED,na,na,na
+Water Bottle,,$1.00,1,$0.00,$1.00,$0.090,$1.09,false,,0,$0.00,Cash,"2/4/24, 6:01 PM",$1.09,$0.00,$0.00,$1.09,$0.00,CAPTURED,na,na,na
+Idly Batter,,$8.50,1,$0.00,$8.50,$0.000,$8.50,false,,0,$0.00,CREDIT: Visa 7633,"2/4/24, 6:01 PM",$12.33,$0.00,$0.00,$12.33,$0.00,CAPTURED,na,75f97b11-c3a1-4d9d-8ec7-52565283b1aa,na
+Masala Chai,,$3.50,1,$0.00,$3.50,$0.330,$3.83,false,,0,$0.00,CREDIT: Visa 7633,"2/4/24, 6:01 PM",$12.33,$0.00,$0.00,$12.33,$0.00,CAPTURED,na,75f97b11-c3a1-4d9d-8ec7-52565283b1aa,na
+Idly Batter,,$8.50,1,$0.45,$8.05,$0.000,$8.05,false,,0,$0.00,CREDIT: Visa 5164,"2/4/24, 6:03 PM",$50.81,$0.00,$0.00,$50.81,$0.00,CAPTURED,Sashi,28627471-899f-4a7d-acd2-6f501d6a9674,na
+Dosa batter,,$8.50,1,$0.45,$8.05,$0.000,$8.05,false,,0,$0.00,CREDIT: Visa 5164,"2/4/24, 6:03 PM",$50.81,$0.00,$0.00,$50.81,$0.00,CAPTURED,Sashi,28627471-899f-4a7d-acd2-6f501d6a9674,na
+Bisibele Bath,,$10.00,1,$0.53,$9.47,$0.890,$10.36,false,,0,$0.00,CREDIT: Visa 5164,"2/4/24, 6:03 PM",$50.81,$0.00,$0.00,$50.81,$0.00,CAPTURED,Sashi,28627471-899f-4a7d-acd2-6f501d6a9674,na
+Curd Rice,,$9.00,1,$0.47,$8.53,$0.800,$9.33,false,,0,$0.00,CREDIT: Visa 5164,"2/4/24, 6:03 PM",$50.81,$0.00,$0.00,$50.81,$0.00,CAPTURED,Sashi,28627471-899f-4a7d-acd2-6f501d6a9674,na
+Pongal,,$10.00,1,$0.53,$9.47,$0.890,$10.36,false,,0,$0.00,CREDIT: Visa 5164,"2/4/24, 6:03 PM",$50.81,$0.00,$0.00,$50.81,$0.00,CAPTURED,Sashi,28627471-899f-4a7d-acd2-6f501d6a9674,na
+Vegan Filter Coffee,,$4.50,1,$0.24,$4.26,$0.400,$4.66,false,,0,$0.00,CREDIT: Visa 5164,"2/4/24, 6:03 PM",$50.81,$0.00,$0.00,$50.81,$0.00,CAPTURED,Sashi,28627471-899f-4a7d-acd2-6f501d6a9674,na
+Medhu Vada,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 6160,"2/4/24, 6:04 PM",$14.77,$0.00,$0.00,$14.77,$0.00,CAPTURED,Vijay,na,na
+Rose Milk,,$3.50,1,$0.00,$3.50,$0.330,$3.83,false,,0,$0.00,CREDIT: Visa 6160,"2/4/24, 6:04 PM",$14.77,$0.00,$0.00,$14.77,$0.00,CAPTURED,Vijay,na,na
+Thatte Idly,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 5090,"2/4/24, 7:39 PM",$21.88,$0.00,$0.00,$21.88,$0.00,CAPTURED,Debasis Cardholder,na,858-243-1164
+Medhu Vada,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 5090,"2/4/24, 7:39 PM",$21.88,$0.00,$0.00,$21.88,$0.00,CAPTURED,Debasis Cardholder,na,858-243-1164
+Filter Coffee,,$4.00,6,$0.00,$24.00,$2.250,$26.25,false,,0,$0.00,CREDIT: Visa 9798,"2/4/24, 6:08 PM",$26.25,$0.00,$0.00,$26.25,$0.00,CAPTURED,na,na,na
+Kara Kuzhambu,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Mastercard 5964,"2/4/24, 6:09 PM",$10.94,$0.00,$0.00,$10.94,$0.00,CAPTURED,na,na,na
+Onion Uthappam (2 pcs),,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,CREDIT: Visa 5187,"2/4/24, 6:13 PM",$12.03,$0.00,$0.00,$12.03,$0.00,CAPTURED,Ayushi,na,na
+Poori Masaal,,$5.00,3,$1.02,$13.98,$1.310,$15.29,false,,0,$0.00,CREDIT: Visa 1586,"2/4/24, 6:26 PM",$36.85,$0.00,$0.00,$36.85,$0.00,CAPTURED,Sriram Srinivasan,da7e3e26-576a-47d3-bd7f-7128f30e2796,313-985-2040
+Sambar - 24oz,,$12.00,1,$0.81,$11.19,$1.050,$12.24,false,,0,$0.00,CREDIT: Visa 1586,"2/4/24, 6:26 PM",$36.85,$0.00,$0.00,$36.85,$0.00,CAPTURED,Sriram Srinivasan,da7e3e26-576a-47d3-bd7f-7128f30e2796,313-985-2040
+Mylapore Express Curry (Single),,$10.00,1,$0.68,$9.32,$0.000,$9.32,false,,0,$0.00,CREDIT: Visa 1586,"2/4/24, 6:26 PM",$36.85,$0.00,$0.00,$36.85,$0.00,CAPTURED,Sriram Srinivasan,da7e3e26-576a-47d3-bd7f-7128f30e2796,313-985-2040
+Sambar - 16oz,,$7.65,1,$0.00,$7.65,$0.590,$8.24,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 6:07 PM",$42.71,$1.00,$0.00,$43.71,$0.00,CAPTURED,Pinak P,na,855-973-1040
+Onion Tomato Chilli Uthappam (2 pcs),,$10.50,1,$0.00,$10.50,$0.810,$11.31,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 6:07 PM",$42.71,$1.00,$0.00,$43.71,$0.00,CAPTURED,Pinak P,na,855-973-1040
+Medhu Vada,,$10.50,1,$0.00,$10.50,$0.810,$11.31,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 6:07 PM",$42.71,$1.00,$0.00,$43.71,$0.00,CAPTURED,Pinak P,na,855-973-1040
+Mini Idly - Sambar On the Side,,$11.00,1,$0.00,$11.00,$0.850,$11.85,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 6:07 PM",$42.71,$1.00,$0.00,$43.71,$0.00,CAPTURED,Pinak P,na,855-973-1040
+Filter Coffee,,$4.00,3,$0.00,$12.00,$1.120,$13.12,false,,0,$0.00,CREDIT: Visa 3099,"2/4/24, 6:22 PM",$13.12,$0.00,$0.00,$13.12,$0.00,CAPTURED,na,na,na
+Coconut Chutney,,$2.00,2,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Discover 7844,"2/4/24, 6:07 PM",$20.78,$2.85,$0.00,$23.63,$0.00,CAPTURED,Seeranguram Murugesan,na,408-275-5745
+Sambar - 24oz,,$12.00,1,$0.00,$12.00,$1.120,$13.12,false,,0,$0.00,CREDIT: Discover 7844,"2/4/24, 6:07 PM",$20.78,$2.85,$0.00,$23.63,$0.00,CAPTURED,Seeranguram Murugesan,na,408-275-5745
+Tomato Chutney,,$1.50,2,$0.00,$3.00,$0.280,$3.28,false,,0,$0.00,CREDIT: Discover 7844,"2/4/24, 6:07 PM",$20.78,$2.85,$0.00,$23.63,$0.00,CAPTURED,Seeranguram Murugesan,na,408-275-5745
+Idly Vada Combo,,$11.55,1,$0.00,$11.55,$1.060,$12.61,false,,0,$0.00,OTHER: Uber Eats,"2/4/24, 6:23 PM",$25.22,$0.00,$0.00,$25.22,$0.00,CAPTURED,Shreyas M,na,na
+Vada Idly Pongal (VIP),,$11.55,1,$0.00,$11.55,$1.060,$12.61,false,,0,$0.00,OTHER: Uber Eats,"2/4/24, 6:23 PM",$25.22,$0.00,$0.00,$25.22,$0.00,CAPTURED,Shreyas M,na,na
+Thattte Idly,,$11.00,2,$0.00,$22.00,$2.060,$24.06,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 6:10 PM",$24.06,$0.00,$0.00,$24.06,$0.00,CAPTURED,Pradeep V,na,855-973-1040
+Idly Batter,,$8.50,1,$0.00,$8.50,$0.000,$8.50,false,,0,$0.00,CREDIT: Visa 2919,"2/4/24, 6:23 PM",$17.00,$0.00,$0.00,$17.00,$0.00,CAPTURED,na,na,na
+Dosa batter,,$8.50,1,$0.00,$8.50,$0.000,$8.50,false,,0,$0.00,CREDIT: Visa 2919,"2/4/24, 6:23 PM",$17.00,$0.00,$0.00,$17.00,$0.00,CAPTURED,na,na,na
+Mango Lassi,,$3.50,1,$0.00,$3.50,$0.330,$3.83,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 6:11 PM",$39.32,$0.00,$0.00,$39.32,$0.00,CAPTURED,Shruti S,na,855-973-1040
+Puliyodarai,,$10.45,1,$0.00,$10.45,$0.980,$11.43,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 6:11 PM",$39.32,$0.00,$0.00,$39.32,$0.00,CAPTURED,Shruti S,na,855-973-1040
+Bisibele Bath,,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 6:11 PM",$39.32,$0.00,$0.00,$39.32,$0.00,CAPTURED,Shruti S,na,855-973-1040
+Thattte Idly,,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 6:11 PM",$39.32,$0.00,$0.00,$39.32,$0.00,CAPTURED,Shruti S,na,855-973-1040
+Sambar Idly,,$8.00,1,$0.00,$8.00,$0.750,$8.75,false,,0,$0.00,CREDIT: Visa 4485,"2/4/24, 6:28 PM",$27.90,$0.00,$0.00,$27.90,$0.00,CAPTURED,Kumar,na,na
+Mini Idly,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 4485,"2/4/24, 6:28 PM",$27.90,$0.00,$0.00,$27.90,$0.00,CAPTURED,Kumar,na,na
+Filter Coffee,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Visa 4485,"2/4/24, 6:28 PM",$27.90,$0.00,$0.00,$27.90,$0.00,CAPTURED,Kumar,na,na
+Mango Lassi,,$3.50,1,$0.00,$3.50,$0.330,$3.83,false,,0,$0.00,CREDIT: Visa 4485,"2/4/24, 6:28 PM",$27.90,$0.00,$0.00,$27.90,$0.00,CAPTURED,Kumar,na,na
+Sambar - 8oz,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 6:14 PM",$28.44,$0.00,$0.00,$28.44,$0.00,CAPTURED,Anusha C,na,855-973-1040
+Thattte Idly,,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 6:14 PM",$28.44,$0.00,$0.00,$28.44,$0.00,CAPTURED,Anusha C,na,855-973-1040
+Tomato Uthappam (2 pcs),,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 6:14 PM",$28.44,$0.00,$0.00,$28.44,$0.00,CAPTURED,Anusha C,na,855-973-1040
+Idly Batter,,$8.50,1,$0.90,$7.60,$0.000,$7.60,false,,0,$0.00,CREDIT: Amex 1000,"2/4/24, 6:29 PM",$28.58,$0.00,$0.00,$28.58,$0.00,CAPTURED,Vshal,8a30350a-47f1-46fc-b829-0289b2912de9,na
+Mylapore Express Curries,,$18.00,1,$1.91,$16.09,$0.000,$16.09,false,,0,$0.00,CREDIT: Amex 1000,"2/4/24, 6:29 PM",$28.58,$0.00,$0.00,$28.58,$0.00,CAPTURED,Vshal,8a30350a-47f1-46fc-b829-0289b2912de9,na
+Poori Masaal,,$5.00,1,$0.53,$4.47,$0.420,$4.89,false,,0,$0.00,CREDIT: Amex 1000,"2/4/24, 6:29 PM",$28.58,$0.00,$0.00,$28.58,$0.00,CAPTURED,Vshal,8a30350a-47f1-46fc-b829-0289b2912de9,na
+Filter Coffee,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Visa 0465,"2/4/24, 6:36 PM",$15.32,$2.10,$0.00,$17.42,$0.00,CAPTURED,Dhruva,na,na
+Mini Podi Idly,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 0465,"2/4/24, 6:36 PM",$15.32,$2.10,$0.00,$17.42,$0.00,CAPTURED,Dhruva,na,na
+Masala Chai,,$3.50,1,$0.00,$3.50,$0.330,$3.83,false,,0,$0.00,CREDIT: Discover 5985,"2/4/24, 6:37 PM",$12.53,$0.00,$0.00,$12.53,$0.00,CAPTURED,Sujan,bd624ffc-d031-431e-b2da-34ea5942b68e,na
+Masala Vada (6pcs),,$7.95,1,$0.00,$7.95,$0.750,$8.70,false,,0,$0.00,CREDIT: Discover 5985,"2/4/24, 6:37 PM",$12.53,$0.00,$0.00,$12.53,$0.00,CAPTURED,Sujan,bd624ffc-d031-431e-b2da-34ea5942b68e,na
+Poondu Kuzhambu,,$10.00,1,$0.00,$10.00,$0.000,$10.00,false,,0,$0.00,CREDIT: Visa 7327,"2/4/24, 6:39 PM",$48.94,$0.00,$0.00,$48.94,$0.00,CAPTURED,na,57e82941-d1ea-486b-9a75-7e3977f8a258,na
+Kara Kuzhambu,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 7327,"2/4/24, 6:39 PM",$48.94,$0.00,$0.00,$48.94,$0.00,CAPTURED,na,57e82941-d1ea-486b-9a75-7e3977f8a258,na
+Mylapore Express Curries,,$18.00,1,$0.00,$18.00,$0.000,$18.00,false,,0,$0.00,CREDIT: Visa 7327,"2/4/24, 6:39 PM",$48.94,$0.00,$0.00,$48.94,$0.00,CAPTURED,na,57e82941-d1ea-486b-9a75-7e3977f8a258,na
+Mylapore Express Curry (Single),,$10.00,1,$0.00,$10.00,$0.000,$10.00,false,,0,$0.00,CREDIT: Visa 7327,"2/4/24, 6:39 PM",$48.94,$0.00,$0.00,$48.94,$0.00,CAPTURED,na,57e82941-d1ea-486b-9a75-7e3977f8a258,na
+Filter Coffee,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Visa 9743,"2/4/24, 6:41 PM",$4.38,$0.00,$0.00,$4.38,$0.00,CAPTURED,na,na,na
+Idiyappam Kurma (4 pcs),,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 7385,"2/4/24, 6:44 PM",$48.68,$0.00,$0.00,$48.68,$0.00,CAPTURED,Priya,na,na
+Parotta Kurma,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 7385,"2/4/24, 6:44 PM",$48.68,$0.00,$0.00,$48.68,$0.00,CAPTURED,Priya,na,na
+Medhu Vada,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 7385,"2/4/24, 6:44 PM",$48.68,$0.00,$0.00,$48.68,$0.00,CAPTURED,Priya,na,na
+Vegetable Biriyani,,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,CREDIT: Visa 7385,"2/4/24, 6:44 PM",$48.68,$0.00,$0.00,$48.68,$0.00,CAPTURED,Priya,na,na
+Rose Milk,,$3.50,1,$0.00,$3.50,$0.330,$3.83,false,,0,$0.00,CREDIT: Visa 7385,"2/4/24, 6:44 PM",$48.68,$0.00,$0.00,$48.68,$0.00,CAPTURED,Priya,na,na
+Dosa batter,,$8.50,1,$0.00,$8.50,$0.000,$8.50,false,,0,$0.00,CREDIT: Mastercard 6201,"2/4/24, 6:46 PM",$8.50,$0.00,$0.00,$8.50,$0.00,CAPTURED,na,04d06db4-851a-40f1-9ea5-2e5b0b8e8953,na
+Bisibele Bath,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 4241,"2/4/24, 6:47 PM",$26.80,$3.68,$0.00,$30.48,$0.00,CAPTURED,Priyanka,na,na
+Idly Vada Combo,,$10.50,1,$0.00,$10.50,$0.980,$11.48,false,,0,$0.00,CREDIT: Visa 4241,"2/4/24, 6:47 PM",$26.80,$3.68,$0.00,$30.48,$0.00,CAPTURED,Priyanka,na,na
+Filter Coffee,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Visa 4241,"2/4/24, 6:47 PM",$26.80,$3.68,$0.00,$30.48,$0.00,CAPTURED,Priyanka,na,na
+Spiced Buttermilk,,$3.50,1,$0.00,$3.50,$0.200,$3.70,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 6:34 PM",$20.56,$0.00,$0.00,$20.56,$0.00,CAPTURED,Lakshmanan A,na,855-973-1040
+Vegetable Pakoda,,$7.95,1,$0.00,$7.95,$0.480,$8.43,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 6:34 PM",$20.56,$0.00,$0.00,$20.56,$0.00,CAPTURED,Lakshmanan A,na,855-973-1040
+Masala Vada (6pcs),,$7.95,1,$0.00,$7.95,$0.480,$8.43,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 6:34 PM",$20.56,$0.00,$0.00,$20.56,$0.00,CAPTURED,Lakshmanan A,na,855-973-1040
+Masala Chai,,$3.50,2,$0.00,$7.00,$0.660,$7.66,false,,0,$0.00,CREDIT: Amex 2007,"2/4/24, 6:49 PM",$7.66,$0.00,$0.00,$7.66,$0.00,CAPTURED,na,na,na
+Sambar - 32oz,,$16.00,1,$0.00,$16.00,$1.500,$17.50,false,,0,$0.00,OTHER: Uber Eats,"2/4/24, 6:48 PM",$41.56,$0.00,$0.00,$41.56,$0.00,CAPTURED,Preeta S,na,na
+Thattte Idly,,$11.00,2,$0.00,$22.00,$2.060,$24.06,false,,0,$0.00,OTHER: Uber Eats,"2/4/24, 6:48 PM",$41.56,$0.00,$0.00,$41.56,$0.00,CAPTURED,Preeta S,na,na
+Poori Masaal,,$5.00,1,$0.33,$4.67,$0.440,$5.11,false,,0,$0.00,CREDIT: Amex 3417,"2/4/24, 6:34 PM",$38.83,$0.00,$0.00,$38.83,$0.00,CAPTURED,Suvitha Kesavan,1eb47daa-a667-4313-83f2-ee4b75a69d47,408-412-2277
+Mini Tiffin,,$12.00,1,$0.79,$11.21,$1.050,$12.26,false,,0,$0.00,CREDIT: Amex 3417,"2/4/24, 6:34 PM",$38.83,$0.00,$0.00,$38.83,$0.00,CAPTURED,Suvitha Kesavan,1eb47daa-a667-4313-83f2-ee4b75a69d47,408-412-2277
+Onion Tomato Chilli Uthappam (2 pcs),,$11.00,1,$0.72,$10.28,$0.960,$11.24,false,,0,$0.00,CREDIT: Amex 3417,"2/4/24, 6:34 PM",$38.83,$0.00,$0.00,$38.83,$0.00,CAPTURED,Suvitha Kesavan,1eb47daa-a667-4313-83f2-ee4b75a69d47,408-412-2277
+Parotta Kurma,,$10.00,1,$0.66,$9.34,$0.880,$10.22,false,,0,$0.00,CREDIT: Amex 3417,"2/4/24, 6:34 PM",$38.83,$0.00,$0.00,$38.83,$0.00,CAPTURED,Suvitha Kesavan,1eb47daa-a667-4313-83f2-ee4b75a69d47,408-412-2277
+Masala Chai,,$3.50,1,$0.00,$3.50,$0.330,$3.83,false,,0,$0.00,CREDIT: Visa 3893,"2/4/24, 6:50 PM",$22.58,$0.00,$0.00,$22.58,$0.00,CAPTURED,Karthik,18df8558-222b-41e9-abf1-ed06da94bcf0,na
+Sambar Vada,,$8.00,1,$0.00,$8.00,$0.750,$8.75,false,,0,$0.00,CREDIT: Visa 3893,"2/4/24, 6:50 PM",$22.58,$0.00,$0.00,$22.58,$0.00,CAPTURED,Karthik,18df8558-222b-41e9-abf1-ed06da94bcf0,na
+Butter Murukku,,$10.00,1,$0.00,$10.00,$0.000,$10.00,false,,0,$0.00,CREDIT: Visa 3893,"2/4/24, 6:50 PM",$22.58,$0.00,$0.00,$22.58,$0.00,CAPTURED,Karthik,18df8558-222b-41e9-abf1-ed06da94bcf0,na
+Puliyodarai,,$10.45,1,$0.00,$10.45,$0.980,$11.43,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 6:35 PM",$24.06,$0.00,$0.00,$24.06,$0.00,CAPTURED,Archana S,na,855-973-1040
+Vada Idly Pongal (VIP),,$11.55,1,$0.00,$11.55,$1.080,$12.63,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 6:35 PM",$24.06,$0.00,$0.00,$24.06,$0.00,CAPTURED,Archana S,na,855-973-1040
+Poori Masaal,,$5.00,3,$0.00,$15.00,$1.410,$16.41,false,,0,$0.00,CREDIT: Visa 7095,"2/4/24, 7:07 PM",$40.47,$0.00,$0.00,$40.47,$0.00,CAPTURED,Ashwin,f8e66cd2-75a8-45bd-9c34-cdf93644dfcb,na
+Mini Tiffin,,$12.00,1,$0.00,$12.00,$1.120,$13.12,false,,0,$0.00,CREDIT: Visa 7095,"2/4/24, 7:07 PM",$40.47,$0.00,$0.00,$40.47,$0.00,CAPTURED,Ashwin,f8e66cd2-75a8-45bd-9c34-cdf93644dfcb,na
+Parotta Kurma,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 7095,"2/4/24, 7:07 PM",$40.47,$0.00,$0.00,$40.47,$0.00,CAPTURED,Ashwin,f8e66cd2-75a8-45bd-9c34-cdf93644dfcb,na
+Filter Coffee,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Visa 9180,"2/4/24, 6:38 PM",$31.17,$4.28,$0.00,$35.45,$0.00,CAPTURED,Thilina B,na,970-372-9159
+Idly Vada Combo,,$10.50,1,$0.00,$10.50,$0.980,$11.48,false,,0,$0.00,CREDIT: Visa 9180,"2/4/24, 6:38 PM",$31.17,$4.28,$0.00,$35.45,$0.00,CAPTURED,Thilina B,na,970-372-9159
+Vada Idly Pongal (VIP),,$10.50,1,$0.00,$10.50,$0.980,$11.48,false,,0,$0.00,CREDIT: Visa 9180,"2/4/24, 6:38 PM",$31.17,$4.28,$0.00,$35.45,$0.00,CAPTURED,Thilina B,na,970-372-9159
+Mango Lassi,,$3.50,1,$0.00,$3.50,$0.330,$3.83,false,,0,$0.00,CREDIT: Visa 9180,"2/4/24, 6:38 PM",$31.17,$4.28,$0.00,$35.45,$0.00,CAPTURED,Thilina B,na,970-372-9159
+Onion Uthappam (2 pcs),,$11.00,2,$0.00,$22.00,$2.060,$24.06,false,,0,$0.00,CREDIT: Mastercard 8412,"2/4/24, 7:13 PM",$79.85,$0.00,$0.00,$79.85,$0.00,CAPTURED,Sunil,na,650-889-8100
+Onion Chilli Uthappam (2 pcs),,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,CREDIT: Mastercard 8412,"2/4/24, 7:13 PM",$79.85,$0.00,$0.00,$79.85,$0.00,CAPTURED,Sunil,na,650-889-8100
+Pongal,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Mastercard 8412,"2/4/24, 7:13 PM",$79.85,$0.00,$0.00,$79.85,$0.00,CAPTURED,Sunil,na,650-889-8100
+Medhu Vada,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Mastercard 8412,"2/4/24, 7:13 PM",$79.85,$0.00,$0.00,$79.85,$0.00,CAPTURED,Sunil,na,650-889-8100
+Thatte Idly,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Mastercard 8412,"2/4/24, 7:13 PM",$79.85,$0.00,$0.00,$79.85,$0.00,CAPTURED,Sunil,na,650-889-8100
+Thatte Idly,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Mastercard 8412,"2/4/24, 7:13 PM",$79.85,$0.00,$0.00,$79.85,$0.00,CAPTURED,Sunil,na,650-889-8100
+Poori Masaal,,$5.00,1,$0.71,$4.29,$0.400,$4.69,false,,0,$0.00,CREDIT: Visa 2477,"2/4/24, 6:39 PM",$20.63,$2.06,$0.00,$22.69,$0.00,CAPTURED,Hariharan Muthukrishnan,54e4051d-382c-42a5-91d5-b4d923848465,972-965-4970
+Sambar Idly,,$8.00,1,$1.14,$6.86,$0.640,$7.50,false,,0,$0.00,CREDIT: Visa 2477,"2/4/24, 6:39 PM",$20.63,$2.06,$0.00,$22.69,$0.00,CAPTURED,Hariharan Muthukrishnan,54e4051d-382c-42a5-91d5-b4d923848465,972-965-4970
+Curd Rice,,$9.00,1,$1.28,$7.72,$0.720,$8.44,false,,0,$0.00,CREDIT: Visa 2477,"2/4/24, 6:39 PM",$20.63,$2.06,$0.00,$22.69,$0.00,CAPTURED,Hariharan Muthukrishnan,54e4051d-382c-42a5-91d5-b4d923848465,972-965-4970
+Mini Idly - Sambar On the Side,,$10.50,1,$0.00,$10.50,$0.980,$11.48,false,,0,$0.00,CREDIT: Visa 0565,"2/4/24, 6:40 PM",$11.48,$0.00,$0.00,$11.48,$0.00,CAPTURED,Prasennaram Dhanushkodi,64e2f390-9e70-4e71-9fbc-d1b7ffd25850,510-944-7466
+Bisibele Bath,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 7188,"2/4/24, 6:57 PM",$15.32,$0.00,$0.00,$15.32,$0.00,CAPTURED,Krishna,b41a852a-b2dd-4057-82e9-a117c8ce142a,na
+Filter Coffee,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Visa 7188,"2/4/24, 6:57 PM",$15.32,$0.00,$0.00,$15.32,$0.00,CAPTURED,Krishna,b41a852a-b2dd-4057-82e9-a117c8ce142a,na
+Samosa - 3 pcs,,$5.00,2,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 2233,"2/4/24, 6:59 PM",$36.94,$0.00,$0.00,$36.94,$0.00,CAPTURED,Ning,436aa96c-968f-4a59-8481-aa5f2c305f65,na
+Mylapore Express Curries,,$18.00,1,$0.00,$18.00,$0.000,$18.00,false,,0,$0.00,CREDIT: Visa 2233,"2/4/24, 6:59 PM",$36.94,$0.00,$0.00,$36.94,$0.00,CAPTURED,Ning,436aa96c-968f-4a59-8481-aa5f2c305f65,na
+Rice Kheer,,$8.00,1,$0.00,$8.00,$0.000,$8.00,false,,0,$0.00,CREDIT: Visa 2233,"2/4/24, 6:59 PM",$36.94,$0.00,$0.00,$36.94,$0.00,CAPTURED,Ning,436aa96c-968f-4a59-8481-aa5f2c305f65,na
+Idly Batter,,$8.50,1,$0.00,$8.50,$0.000,$8.50,false,,0,$0.00,CREDIT: Visa 0565,"2/4/24, 7:00 PM",$8.50,$0.00,$0.00,$8.50,$0.00,CAPTURED,na,64e2f390-9e70-4e71-9fbc-d1b7ffd25850,na
+Rava Kesari,,$5.50,1,$0.00,$5.50,$0.460,$5.96,false,,0,$0.00,OTHER: Uber Eats,"2/4/24, 7:00 PM",$44.30,$0.00,$0.00,$44.30,$0.00,CAPTURED,Saisha N,na,na
+Idiyappam Kurma (4 pcs),,$11.00,1,$0.00,$11.00,$0.930,$11.93,false,,0,$0.00,OTHER: Uber Eats,"2/4/24, 7:00 PM",$44.30,$0.00,$0.00,$44.30,$0.00,CAPTURED,Saisha N,na,na
+Vada Idly Pongal (VIP),,$11.55,1,$0.00,$11.55,$0.980,$12.53,false,,0,$0.00,OTHER: Uber Eats,"2/4/24, 7:00 PM",$44.30,$0.00,$0.00,$44.30,$0.00,CAPTURED,Saisha N,na,na
+Sambar Idly,,$8.80,1,$0.00,$8.80,$0.740,$9.54,false,,0,$0.00,OTHER: Uber Eats,"2/4/24, 7:00 PM",$44.30,$0.00,$0.00,$44.30,$0.00,CAPTURED,Saisha N,na,na
+Filter Coffee,,$4.00,1,$0.00,$4.00,$0.340,$4.34,false,,0,$0.00,OTHER: Uber Eats,"2/4/24, 7:00 PM",$44.30,$0.00,$0.00,$44.30,$0.00,CAPTURED,Saisha N,na,na
+Medhu Vada,Jain Sambhar,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 2449,"2/4/24, 7:03 PM",$14.77,$0.00,$0.00,$14.77,$0.00,CAPTURED,Dharsh,na,na
+Masala Chai,,$3.50,1,$0.00,$3.50,$0.330,$3.83,false,,0,$0.00,CREDIT: Visa 2449,"2/4/24, 7:03 PM",$14.77,$0.00,$0.00,$14.77,$0.00,CAPTURED,Dharsh,na,na
+Thattte Idly,,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 6:45 PM",$36.09,$0.00,$0.00,$36.09,$0.00,CAPTURED,Srini K,na,855-973-1040
+Pongal,,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 6:45 PM",$36.09,$0.00,$0.00,$36.09,$0.00,CAPTURED,Srini K,na,855-973-1040
+Onion Tomato Chilli Uthappam (2 pcs),,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 6:45 PM",$36.09,$0.00,$0.00,$36.09,$0.00,CAPTURED,Srini K,na,855-973-1040
+Extra Vada,,$2.00,1,$0.00,$2.00,$0.190,$2.19,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 6:50 PM",$14.22,$0.00,$0.00,$14.22,$0.00,CAPTURED,Lokhesh K,na,855-973-1040
+Mini Podi Idly,,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 6:50 PM",$14.22,$0.00,$0.00,$14.22,$0.00,CAPTURED,Lokhesh K,na,855-973-1040
+Poori Masaal,,$5.00,2,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Discover 7707,"2/4/24, 7:33 PM",$30.94,$0.00,$0.00,$30.94,$0.00,CAPTURED,Devika Cardmember,na,408-420-1200
+Mylapore Express Curry (Single),,$10.00,1,$0.00,$10.00,$0.000,$10.00,false,,0,$0.00,CREDIT: Discover 7707,"2/4/24, 7:33 PM",$30.94,$0.00,$0.00,$30.94,$0.00,CAPTURED,Devika Cardmember,na,408-420-1200
+Butter Murukku,,$10.00,1,$0.00,$10.00,$0.000,$10.00,false,,0,$0.00,CREDIT: Discover 7707,"2/4/24, 7:33 PM",$30.94,$0.00,$0.00,$30.94,$0.00,CAPTURED,Devika Cardmember,na,408-420-1200
+Dosa batter,,$8.50,1,$0.00,$8.50,$0.000,$8.50,false,,0,$0.00,CREDIT: Visa 7602,"2/4/24, 7:09 PM",$30.50,$0.00,$0.00,$30.50,$0.00,CAPTURED,na,na,na
+Coconut Burfi,,$12.00,1,$0.00,$12.00,$0.000,$12.00,false,,0,$0.00,CREDIT: Visa 7602,"2/4/24, 7:09 PM",$30.50,$0.00,$0.00,$30.50,$0.00,CAPTURED,na,na,na
+Butter Murukku,,$10.00,1,$0.00,$10.00,$0.000,$10.00,false,,0,$0.00,CREDIT: Visa 7602,"2/4/24, 7:09 PM",$30.50,$0.00,$0.00,$30.50,$0.00,CAPTURED,na,na,na
+Pongal Vada Combo,,$11.55,1,$0.00,$11.55,$1.090,$12.64,false,,0,$0.00,OTHER: Uber Eats,"2/4/24, 7:10 PM",$31.89,$0.00,$0.00,$31.89,$0.00,CAPTURED,Vid R,na,na
+Samosa - 3 pcs,,$5.50,1,$0.00,$5.50,$0.520,$6.02,false,,0,$0.00,OTHER: Uber Eats,"2/4/24, 7:10 PM",$31.89,$0.00,$0.00,$31.89,$0.00,CAPTURED,Vid R,na,na
+Vegetable Biriyani,,$12.10,1,$0.00,$12.10,$1.130,$13.23,false,,0,$0.00,OTHER: Uber Eats,"2/4/24, 7:10 PM",$31.89,$0.00,$0.00,$31.89,$0.00,CAPTURED,Vid R,na,na
+Thattte Idly,,$11.00,2,$0.00,$22.00,$2.070,$24.07,false,,0,$0.00,OTHER: Uber Eats,"2/4/24, 7:10 PM",$24.07,$0.00,$0.00,$24.07,$0.00,CAPTURED,Anupama R,na,na
+Poori Masaal,,$5.00,1,$0.00,$5.00,$0.470,$5.47,false,,0,$0.00,CREDIT: Mastercard 4091,"2/4/24, 6:55 PM",$21.33,$0.00,$0.00,$21.33,$0.00,CAPTURED,Vivek Iyer,6d7adf0b-c0ce-4e79-aff8-b293ccf9b0ba,480-381-7850
+Vada Idly Pongal (VIP),,$10.50,1,$0.00,$10.50,$0.980,$11.48,false,,0,$0.00,CREDIT: Mastercard 4091,"2/4/24, 6:55 PM",$21.33,$0.00,$0.00,$21.33,$0.00,CAPTURED,Vivek Iyer,6d7adf0b-c0ce-4e79-aff8-b293ccf9b0ba,480-381-7850
+Sambar - 8oz,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Mastercard 4091,"2/4/24, 6:55 PM",$21.33,$0.00,$0.00,$21.33,$0.00,CAPTURED,Vivek Iyer,6d7adf0b-c0ce-4e79-aff8-b293ccf9b0ba,480-381-7850
+Mylapore Express Curries,,$18.00,1,$0.00,$18.00,$0.000,$18.00,false,,0,$0.00,CREDIT: Visa 4603,"2/4/24, 7:11 PM",$18.00,$0.00,$0.00,$18.00,$0.00,CAPTURED,na,na,na
+Thatte Idly,,$10.00,4,$0.00,$40.00,$3.750,$43.75,false,,0,$0.00,CREDIT: Mastercard 7420,"2/4/24, 7:23 PM",$43.75,$6.00,$0.00,$49.75,$0.00,CAPTURED,Swati,na,757-230-5905
+Mixture,,$10.00,1,$0.00,$10.00,$0.000,$10.00,false,,0,$0.00,CREDIT: Visa 4603,"2/4/24, 7:13 PM",$10.00,$0.00,$0.00,$10.00,$0.00,CAPTURED,na,na,na
+Onion Tomato Uthappam (2 pcs),,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,CREDIT: Mastercard 2207,"2/4/24, 7:00 PM",$22.97,$0.00,$0.00,$22.97,$0.00,CAPTURED,Santosh Patil,na,408-221-9330
+Mini Idly,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Mastercard 2207,"2/4/24, 7:00 PM",$22.97,$0.00,$0.00,$22.97,$0.00,CAPTURED,Santosh Patil,na,408-221-9330
+Filter Coffee,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Mastercard 7283,"2/4/24, 7:17 PM",$44.30,$0.00,$0.00,$44.30,$0.00,CAPTURED,Merin,na,na
+Mini Podi Idly,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Mastercard 7283,"2/4/24, 7:17 PM",$44.30,$0.00,$0.00,$44.30,$0.00,CAPTURED,Merin,na,na
+Vada Idly Pongal (VIP),,$10.50,1,$0.00,$10.50,$0.980,$11.48,false,,0,$0.00,CREDIT: Mastercard 7283,"2/4/24, 7:17 PM",$44.30,$0.00,$0.00,$44.30,$0.00,CAPTURED,Merin,na,na
+Poori Masaal,,$5.00,1,$0.00,$5.00,$0.470,$5.47,false,,0,$0.00,CREDIT: Mastercard 7283,"2/4/24, 7:17 PM",$44.30,$0.00,$0.00,$44.30,$0.00,CAPTURED,Merin,na,na
+Onion Uthappam (2 pcs),,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,CREDIT: Mastercard 7283,"2/4/24, 7:17 PM",$44.30,$0.00,$0.00,$44.30,$0.00,CAPTURED,Merin,na,na
+Thattte Idly,,$11.00,2,$0.00,$22.00,$1.410,$23.41,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 7:01 PM",$23.41,$0.00,$0.00,$23.41,$0.00,CAPTURED,Archana S,na,855-973-1040
+Mini Idly - Sambar On the Side,,$10.50,1,$0.00,$10.50,$0.980,$11.48,false,,0,$0.00,CREDIT: Discover 4544,"2/4/24, 7:45 PM",$28.43,$0.00,$0.00,$28.43,$0.00,CAPTURED,Nachi Palani,fe8a8505-8784-43d8-bf7b-f15c811b773e,408-639-4304
+Pongal Vada Combo,,$10.50,1,$0.00,$10.50,$0.980,$11.48,false,,0,$0.00,CREDIT: Discover 4544,"2/4/24, 7:45 PM",$28.43,$0.00,$0.00,$28.43,$0.00,CAPTURED,Nachi Palani,fe8a8505-8784-43d8-bf7b-f15c811b773e,408-639-4304
+Poori Masaal,,$5.00,1,$0.00,$5.00,$0.470,$5.47,false,,0,$0.00,CREDIT: Discover 4544,"2/4/24, 7:45 PM",$28.43,$0.00,$0.00,$28.43,$0.00,CAPTURED,Nachi Palani,fe8a8505-8784-43d8-bf7b-f15c811b773e,408-639-4304
+Poori Masaal,,$5.00,4,$0.00,$20.00,$1.880,$21.88,false,,0,$0.00,CREDIT: Mastercard 7908,"2/4/24, 7:18 PM",$21.88,$0.00,$0.00,$21.88,$0.00,CAPTURED,Mustafa,a5a2b780-89fc-4dd5-9026-06aa3fcd43e9,na
+Dosa batter,,$8.50,1,$0.00,$8.50,$0.000,$8.50,false,,0,$0.00,CREDIT: Visa 9232,"2/4/24, 7:19 PM",$8.50,$0.00,$0.00,$8.50,$0.00,CAPTURED,na,na,na
+Dosa batter,,$8.50,1,$0.00,$8.50,$0.000,$8.50,false,,0,$0.00,CREDIT: Visa 1076,"2/4/24, 7:20 PM",$8.50,$0.00,$0.00,$8.50,$0.00,CAPTURED,na,na,na
+Idly Vada Combo,,$10.50,1,$0.00,$10.50,$0.980,$11.48,false,,0,$0.00,CREDIT: Mastercard 9876,"2/4/24, 7:54 PM",$19.69,$0.00,$0.00,$19.69,$0.00,CAPTURED,Srilatha,f0c6e437-eec2-4b71-b7ee-f27c2e27279f,na
+Masala Chai,,$3.50,1,$0.00,$3.50,$0.330,$3.83,false,,0,$0.00,CREDIT: Mastercard 9876,"2/4/24, 7:54 PM",$19.69,$0.00,$0.00,$19.69,$0.00,CAPTURED,Srilatha,f0c6e437-eec2-4b71-b7ee-f27c2e27279f,na
+Masala Chai,,$3.50,1,$0.00,$3.50,$0.330,$3.83,true,Customer Changed Mind,0,$0.00,CREDIT: Mastercard 9876,"2/4/24, 7:54 PM",$19.69,$0.00,$0.00,$19.69,$0.00,CAPTURED,Srilatha,f0c6e437-eec2-4b71-b7ee-f27c2e27279f,na
+Hot Badam Milk,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Mastercard 9876,"2/4/24, 7:54 PM",$19.69,$0.00,$0.00,$19.69,$0.00,CAPTURED,Srilatha,f0c6e437-eec2-4b71-b7ee-f27c2e27279f,na
+Thattte Idly,,$10.00,3,$0.00,$30.00,$2.810,$32.81,false,,0,$0.00,CREDIT: Visa 9027,"2/4/24, 7:05 PM",$32.81,$0.00,$0.00,$32.81,$0.00,CAPTURED,Kankana Chakraborty,na,408-203-6973
+Thatte Idly,Pick Up At 7.50 Pm,$10.00,3,$0.00,$30.00,$2.810,$32.81,false,,0,$0.00,CREDIT: Visa 1792,"2/4/24, 8:01 PM",$32.81,$1.00,$0.00,$33.81,$0.00,CAPTURED,Jayesh Senjaliya,na,408-421-8405
+Filter Coffee,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Visa 2131,"2/4/24, 7:25 PM",$4.38,$0.00,$0.00,$4.38,$0.00,CAPTURED,na,na,na
+Puliyodarai,,$9.50,1,$0.00,$9.50,$0.890,$10.39,false,,0,$0.00,CREDIT: Visa 1607,"2/4/24, 7:10 PM",$32.27,$4.43,$0.00,$36.70,$0.00,CAPTURED,Prithvi Nuthanakalva,na,408-219-4877
+Onion Uthappam (2 pcs),,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,CREDIT: Visa 1607,"2/4/24, 7:10 PM",$32.27,$4.43,$0.00,$36.70,$0.00,CAPTURED,Prithvi Nuthanakalva,na,408-219-4877
+Filter Coffee,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Visa 1607,"2/4/24, 7:10 PM",$32.27,$4.43,$0.00,$36.70,$0.00,CAPTURED,Prithvi Nuthanakalva,na,408-219-4877
+Rava Kesari,,$5.00,1,$0.00,$5.00,$0.470,$5.47,false,,0,$0.00,CREDIT: Visa 1607,"2/4/24, 7:10 PM",$32.27,$4.43,$0.00,$36.70,$0.00,CAPTURED,Prithvi Nuthanakalva,na,408-219-4877
+Sambar - 16oz,,$8.00,1,$0.00,$8.00,$0.750,$8.75,false,,0,$0.00,CREDIT: Visa 9979,"2/4/24, 7:27 PM",$12.58,$1.00,$0.00,$13.58,$0.00,CAPTURED,Tanush,na,na
+Coconut Chutney,,$2.00,1,$0.00,$2.00,$0.190,$2.19,false,,0,$0.00,CREDIT: Visa 9979,"2/4/24, 7:27 PM",$12.58,$1.00,$0.00,$13.58,$0.00,CAPTURED,Tanush,na,na
+Tomato Chutney,,$1.50,1,$0.00,$1.50,$0.140,$1.64,false,,0,$0.00,CREDIT: Visa 9979,"2/4/24, 7:27 PM",$12.58,$1.00,$0.00,$13.58,$0.00,CAPTURED,Tanush,na,na
+Thatte Idly,,$10.00,15,$0.00,$150.00,$14.060,$164.06,false,,0,$0.00,CREDIT: Visa 7544,"2/4/24, 8:55 PM",$164.06,$0.00,$0.00,$164.06,$0.00,CAPTURED,Prem Cardholder,na,409-234-5566
+Sambar Vada,,$8.00,1,$0.00,$8.00,$0.750,$8.75,false,,0,$0.00,CREDIT: Visa 4520,"2/4/24, 7:28 PM",$28.44,$0.00,$0.00,$28.44,$0.00,CAPTURED,Kiran,na,na
+Mini Podi Idly,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 4520,"2/4/24, 7:28 PM",$28.44,$0.00,$0.00,$28.44,$0.00,CAPTURED,Kiran,na,na
+Sambar Idly,,$8.00,1,$0.00,$8.00,$0.750,$8.75,false,,0,$0.00,CREDIT: Visa 4520,"2/4/24, 7:28 PM",$28.44,$0.00,$0.00,$28.44,$0.00,CAPTURED,Kiran,na,na
+Mini Podi Idly,,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,OTHER: Uber Eats,"2/4/24, 7:28 PM",$24.07,$0.00,$0.00,$24.07,$0.00,CAPTURED,Sriram K,na,na
+Parotta Kurma,,$11.00,1,$0.00,$11.00,$1.040,$12.04,false,,0,$0.00,OTHER: Uber Eats,"2/4/24, 7:28 PM",$24.07,$0.00,$0.00,$24.07,$0.00,CAPTURED,Sriram K,na,na
+Mylapore Express Curry (Single),,$10.00,1,$0.00,$10.00,$0.000,$10.00,false,,0,$0.00,CREDIT: Visa 6522,"2/4/24, 7:28 PM",$10.00,$0.00,$0.00,$10.00,$0.00,CAPTURED,na,na,na
+Hot Badam Milk,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Visa 4999,"2/4/24, 7:29 PM",$15.32,$0.00,$0.00,$15.32,$0.00,CAPTURED,Vijay,02f12e4c-8257-4817-9302-2bb3b8957988,na
+Bisibele Bath,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 4999,"2/4/24, 7:29 PM",$15.32,$0.00,$0.00,$15.32,$0.00,CAPTURED,Vijay,02f12e4c-8257-4817-9302-2bb3b8957988,na
+Extra Vada,,$2.00,1,$0.00,$2.00,$0.190,$2.19,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 7:17 PM",$14.22,$0.00,$0.00,$14.22,$0.00,CAPTURED,Ganesh S,na,855-973-1040
+Thattte Idly,,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 7:17 PM",$14.22,$0.00,$0.00,$14.22,$0.00,CAPTURED,Ganesh S,na,855-973-1040
+Sambar Vada,,$8.00,1,$0.00,$8.00,$0.750,$8.75,false,,0,$0.00,CREDIT: Visa 9106,"2/4/24, 7:58 PM",$19.69,$0.00,$0.00,$19.69,$0.00,CAPTURED,Bharat,na,na
+Thatte Idly,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 9106,"2/4/24, 7:58 PM",$19.69,$0.00,$0.00,$19.69,$0.00,CAPTURED,Bharat,na,na
+Vada Idly Pongal (VIP),,$10.50,2,$0.00,$21.00,$1.970,$22.97,false,,0,$0.00,Cash,"2/4/24, 7:56 PM",$34.45,$0.00,$0.00,$34.45,$0.00,CAPTURED,Narendra,na,210-464-3896
+Pongal Vada Combo,,$10.50,1,$0.00,$10.50,$0.980,$11.48,false,,0,$0.00,Cash,"2/4/24, 7:56 PM",$34.45,$0.00,$0.00,$34.45,$0.00,CAPTURED,Narendra,na,210-464-3896
+Mini Idly - Sambar On the Side,,$10.50,1,$0.00,$10.50,$0.980,$11.48,false,,0,$0.00,CREDIT: Visa 4086,"2/4/24, 7:36 PM",$22.96,$0.00,$0.00,$22.96,$0.00,CAPTURED,Pavan,2f57ecae-1cee-48ed-b57e-f0a2d9bdfb4f,na
+Idly Vada Combo,,$10.50,1,$0.00,$10.50,$0.980,$11.48,false,,0,$0.00,CREDIT: Visa 4086,"2/4/24, 7:36 PM",$22.96,$0.00,$0.00,$22.96,$0.00,CAPTURED,Pavan,2f57ecae-1cee-48ed-b57e-f0a2d9bdfb4f,na
+Poori Masaal,,$5.00,1,$0.00,$5.00,$0.470,$5.47,false,,0,$0.00,CREDIT: Discover 9818,"2/4/24, 7:20 PM",$28.98,$0.00,$0.00,$28.98,$0.00,CAPTURED,Ramachandrarao Jammigumpula,na,908-410-9679
+Mini Idly - Sambar On the Side,,$10.50,1,$0.00,$10.50,$0.980,$11.48,false,,0,$0.00,CREDIT: Discover 9818,"2/4/24, 7:20 PM",$28.98,$0.00,$0.00,$28.98,$0.00,CAPTURED,Ramachandrarao Jammigumpula,na,908-410-9679
+Onion Chilli Uthappam (2 pcs),,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,CREDIT: Discover 9818,"2/4/24, 7:20 PM",$28.98,$0.00,$0.00,$28.98,$0.00,CAPTURED,Ramachandrarao Jammigumpula,na,908-410-9679
+Mango Lassi,,$3.50,2,$0.00,$7.00,$0.660,$7.66,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 7:21 PM",$32.32,$0.00,$0.00,$32.32,$0.00,CAPTURED,Suraj W,na,855-973-1040
+Mini Podi Idly,,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 7:21 PM",$32.32,$0.00,$0.00,$32.32,$0.00,CAPTURED,Suraj W,na,855-973-1040
+Mini Idly - Sambar On the Side,,$11.55,1,$0.00,$11.55,$1.080,$12.63,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 7:21 PM",$32.32,$0.00,$0.00,$32.32,$0.00,CAPTURED,Suraj W,na,855-973-1040
+Hot Badam Milk,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Amex 8892,"2/4/24, 7:37 PM",$4.38,$0.00,$0.00,$4.38,$0.00,CAPTURED,na,na,na
+Mylapore Express Curries,,$18.00,1,$0.00,$18.00,$0.000,$18.00,false,,0,$0.00,CREDIT: Visa 1566,"2/4/24, 7:40 PM",$40.96,$0.00,$0.00,$40.96,$0.00,CAPTURED,Pradeep,na,na
+Mini Idly - Sambar On the Side,,$10.50,1,$0.00,$10.50,$0.980,$11.48,false,,0,$0.00,CREDIT: Visa 1566,"2/4/24, 7:40 PM",$40.96,$0.00,$0.00,$40.96,$0.00,CAPTURED,Pradeep,na,na
+Pongal Vada Combo,,$10.50,1,$0.00,$10.50,$0.980,$11.48,false,,0,$0.00,CREDIT: Visa 1566,"2/4/24, 7:40 PM",$40.96,$0.00,$0.00,$40.96,$0.00,CAPTURED,Pradeep,na,na
+Parotta Kurma,,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 7:25 PM",$24.06,$0.00,$0.00,$24.06,$0.00,CAPTURED,Suresh S,na,855-973-1040
+Onion Tomato Chilli Uthappam (2 pcs),,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,OTHER: DoorDash,"2/4/24, 7:25 PM",$24.06,$0.00,$0.00,$24.06,$0.00,CAPTURED,Suresh S,na,855-973-1040
+Idly Vada Combo,,$10.50,1,$0.00,$10.50,$0.980,$11.48,false,,0,$0.00,CREDIT: Visa 9841,"2/4/24, 8:05 PM",$34.99,$0.00,$0.00,$34.99,$0.00,CAPTURED,Srikath,na,408-477-6293
+Mini Idly - Sambar On the Side,,$10.50,1,$0.00,$10.50,$0.980,$11.48,false,,0,$0.00,CREDIT: Visa 9841,"2/4/24, 8:05 PM",$34.99,$0.00,$0.00,$34.99,$0.00,CAPTURED,Srikath,na,408-477-6293
+Onion Chilli Uthappam (2 pcs),,$11.00,1,$0.00,$11.00,$1.030,$12.03,false,,0,$0.00,CREDIT: Visa 9841,"2/4/24, 8:05 PM",$34.99,$0.00,$0.00,$34.99,$0.00,CAPTURED,Srikath,na,408-477-6293
+Filter Coffee,,$4.00,1,$0.00,$4.00,$0.380,$4.38,false,,0,$0.00,CREDIT: Visa 3550,"2/4/24, 7:44 PM",$4.38,$0.00,$0.00,$4.38,$0.00,CAPTURED,na,b03dc970-7d18-4423-9a60-cdc63e1e8ff2,na
+Curd Rice,,$9.00,1,$0.00,$9.00,$0.840,$9.84,false,,0,$0.00,CREDIT: Visa 7073,"2/4/24, 8:04 PM",$20.78,$0.00,$0.00,$20.78,$0.00,CAPTURED,Soumya,na,352-870-7747
+Pongal,,$10.00,1,$0.00,$10.00,$0.940,$10.94,false,,0,$0.00,CREDIT: Visa 7073,"2/4/24, 8:04 PM",$20.78,$0.00,$0.00,$20.78,$0.00,CAPTURED,Soumya,na,352-870-7747
